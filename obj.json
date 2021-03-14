@@ -1,0 +1,4070 @@
+[
+  [
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5284 欧阳询.gif",
+      "aHash": "ffe7c7c7c1c9efff",
+      "dHash": "004d0f0c071b5823",
+      "pHash": "b3b68c4d6c935964",
+      "wHash": "1f070707c180e3f3"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5285 陈淳.gif",
+      "aHash": "ffe7e3c18987f7ff",
+      "dHash": "000f062b3b240534",
+      "pHash": "e6e3941e1964b497",
+      "wHash": "ffe3c3810103031f"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5286 管道升.gif",
+      "aHash": "fff7e3e3c187b7ff",
+      "dHash": "102e4f4e9b2d6e11",
+      "pHash": "e6e79c98c9263463",
+      "wHash": "fce4c0c0c18587ff"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5287 揭傒斯.gif",
+      "aHash": "ffe7c7c383c7e7ff",
+      "dHash": "204f0d8f3b2c0f20",
+      "pHash": "b065c69859e7b638",
+      "wHash": "0000c2808183e0f0"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5288 金膺显.gif",
+      "aHash": "ffe3e1e187d3f3ff",
+      "dHash": "0106470f0e360608",
+      "pHash": "e473999c926c5933",
+      "wHash": "3f2301010303030f"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5289 敬世江.gif",
+      "aHash": "fff7f7c3c3f3f3ff",
+      "dHash": "0025058e97250602",
+      "pHash": "e432db9c316dc698",
+      "wHash": "0f0727030323333b"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5290 康里子山.gif",
+      "aHash": "fff3e3e1f1e393ff",
+      "dHash": "0026260327063626",
+      "pHash": "e4649891db3bb32c",
+      "wHash": "c0c0e3c1c08080f4"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5291 陆游.gif",
+      "aHash": "ffefc7e3c187e7ff",
+      "dHash": "004e1c4f9b284f10",
+      "pHash": "b3e19c1b49a69c59",
+      "wHash": "3f270301c007e7ff"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5292 欧阳询.gif",
+      "aHash": "ffcfcf87c18befff",
+      "dHash": "009a9b1c171b5821",
+      "pHash": "b9b0c64f6c939968",
+      "wHash": "f8c00c048001c0f0"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5293 饶介.gif",
+      "aHash": "ffe7e3e18783f3ff",
+      "dHash": "000e478f1c372716",
+      "pHash": "e463c49c9b4c1db3",
+      "wHash": "3723210103030303"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5294 沈周.gif",
+      "aHash": "ffe7c7c3c187e7ff",
+      "dHash": "204d1c1f93284f20",
+      "pHash": "b371ce8ec8b33268",
+      "wHash": "3f0787818007038b"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5295 王慈.gif",
+      "aHash": "fff3e3e3c383d3ff",
+      "dHash": "102646478736360a",
+      "pHash": "ede39a18c3cc9163",
+      "wHash": "3020030100020020"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5296 王羲之.gif",
+      "aHash": "fff7c7e7c185e7ff",
+      "dHash": "00158d4cb36b4c21",
+      "pHash": "e6b09c4fc9b63268",
+      "wHash": "3f0707038001a7ff"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5297 王羲之.gif",
+      "aHash": "ffe7c7c3c18797ff",
+      "dHash": "20059c0f1b2c2f10",
+      "pHash": "b2618c9ecb9eb849",
+      "wHash": "f7c3c3c1c18780f8"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5298 王献之.gif",
+      "aHash": "fff3e3e1c1c393ff",
+      "dHash": "10270a030f96364a",
+      "pHash": "ede29c30d28d9137",
+      "wHash": "37312121c1c183bb"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\5299 俞俊.gif",
+      "aHash": "ffe7e7e1c9c7e7ff",
+      "dHash": "102f4c0f1b2c0f10",
+      "pHash": "e6639e9849669633",
+      "wHash": "3f27e3810107e0f8"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-孙过庭.jpg",
+      "aHash": "ffefc7e1c78783ff",
+      "dHash": "16581f070e2f6666",
+      "pHash": "b7d18d1ec84e34b1",
+      "wHash": "efefc3c083830333"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-宋克.jpg",
+      "aHash": "ffefe3c3c7f3f3ff",
+      "dHash": "52584e8e2d27062d",
+      "pHash": "e433cb8c986dc636",
+      "wHash": "c7c7c3c383d13127"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-徐伯清.jpg",
+      "aHash": "fff7e3e3c3c3f3ff",
+      "dHash": "102e4d4606161606",
+      "pHash": "e6669a9969cc3266",
+      "wHash": "3c2000000303033f"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-怀素.jpg",
+      "aHash": "ffc3c7c3c1d793ff",
+      "dHash": "00179c0f1bb42652",
+      "pHash": "b433cdcdc30eb063",
+      "wHash": "0f03c381c08290bc"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-揭傒斯.jpg",
+      "aHash": "ffc3c7c18987e7f7",
+      "dHash": "0d97a60b196c4d06",
+      "pHash": "b660c49fcbc29c9c",
+      "wHash": "f7c383818187a3f3"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-敬世江.jpg",
+      "aHash": "ffe7f7e3c383fbfb",
+      "dHash": "2c2d2f8e12363313",
+      "pHash": "ed96ce1891c59cc9",
+      "wHash": "24242000030390f8"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-智永.jpg",
+      "aHash": "ffebe3c18bdb93fb",
+      "dHash": "0b5a57091a122213",
+      "pHash": "e973859dd24ec08d",
+      "wHash": "ebe9c1c1818991fb"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-月仪帖.jpg",
+      "aHash": "ffe7e3c18417e7ff",
+      "dHash": "000f860719246d06",
+      "pHash": "a6f1c51e59e48c71",
+      "wHash": "ffe3e3800003a3f7"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-杨凝式.jpg",
+      "aHash": "ffe7e7c3c3e7e7ff",
+      "dHash": "0c4e0d8e9e482d05",
+      "pHash": "b333ce892c649bc3",
+      "wHash": "e4c4c4c003072737"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-毛泽东.jpg",
+      "aHash": "ffc393c3c7f3f3fb",
+      "dHash": "4596270b3e250716",
+      "pHash": "e419c6929367ce9c",
+      "wHash": "f3c3818183c33333"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-王宠.jpg",
+      "aHash": "ffcfe18097ffe7e7",
+      "dHash": "17980b1124510f4d",
+      "pHash": "f27891854c6bcf26",
+      "wHash": "dfc7c080032fc3e7"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-王慈.jpg",
+      "aHash": "ffe3c3e1c18b93ff",
+      "dHash": "244612478b323602",
+      "pHash": "ede2961ec24c99b1",
+      "wHash": "f3c3c1e1c18191fb"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-王羲之.jpg",
+      "aHash": "ffe3e3f1c193f7f7",
+      "dHash": "084e522709742505",
+      "pHash": "e671941adac49d59",
+      "wHash": "e7c3c3c18003f3f3"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-蔡襄.jpg",
+      "aHash": "fff7e7c18187f7f3",
+      "dHash": "08254c8d292c0526",
+      "pHash": "e666c59939b0934e",
+      "wHash": "070303010087e3f3"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-赵佶.jpg",
+      "aHash": "ffe1f5c99267fbfb",
+      "dHash": "002d0d1366c4120b",
+      "pHash": "ee72958599c99266",
+      "wHash": "f7e1e0c01223f1f9"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-赵子昂.jpg",
+      "aHash": "ffc787c083a7e7ff",
+      "dHash": "439c2f132b6c0f60",
+      "pHash": "f2789587496396b4",
+      "wHash": "0800000080002030"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-赵构.jpg",
+      "aHash": "ffe3c3e1c1d7d3ff",
+      "dHash": "214f160b13342656",
+      "pHash": "e463869cdbcc9439",
+      "wHash": "34000301808090f0"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\冬-陈淳.jpg",
+      "aHash": "ffe7f3f1c18783ff",
+      "dHash": "2d0f06478b3c3606",
+      "pHash": "e4c79639c94c91e9",
+      "wHash": "e0e0e3e1808280f0"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\孙过庭.jpg",
+      "aHash": "ffefc7e1c78793ff",
+      "dHash": "15581f070c6f6646",
+      "pHash": "b7d18d1ec84e36b0",
+      "wHash": "efefc1c0838303b3"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\宋克.jpg",
+      "aHash": "ffefe3c3c7f3f3ff",
+      "dHash": "52584e8e2d270628",
+      "pHash": "e433cb8c986dc636",
+      "wHash": "cfc7838303713127"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\徐伯清.jpg",
+      "aHash": "ffe7e3e3c3c3f3ff",
+      "dHash": "102e4d4606171604",
+      "pHash": "e666989969ccb266",
+      "wHash": "1000000000000020"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\怀素.jpg",
+      "aHash": "ffc3c7c3c1d793ff",
+      "dHash": "00179c0f1bb42652",
+      "pHash": "b033cdcdc30e9473",
+      "wHash": "c4c0c381c08290f0"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\揭傒斯.jpg",
+      "aHash": "ffc3c7c18987e7ff",
+      "dHash": "0d97a60b396c4d04",
+      "pHash": "b660c49fcbc29c9c",
+      "wHash": "e7c383810187e3f7"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\敬世江.jpg",
+      "aHash": "ffe7e7c3c383fbfb",
+      "dHash": "2e2d2f8e12362313",
+      "pHash": "edb6ce1831c59c49",
+      "wHash": "37272303030381e9"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\智永.jpg",
+      "aHash": "ffebe3c18bdb93ff",
+      "dHash": "0b5a570912122212",
+      "pHash": "e973859dd24ec485",
+      "wHash": "ebcbc181818b91fb"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\月仪帖.jpg",
+      "aHash": "ffe7e3c18417e7ff",
+      "dHash": "000f860d19644d16",
+      "pHash": "a6f1c51e59e48cd1",
+      "wHash": "f7e3e3800003e3fb"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\杨凝式.jpg",
+      "aHash": "ffe7e7c3c3e7e7ff",
+      "dHash": "284e0d8e9e482d04",
+      "pHash": "b333cccb28649b8b",
+      "wHash": "2727070303072737"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\毛泽东.jpg",
+      "aHash": "ffc393c3c7f3f3fb",
+      "dHash": "4596270b3e250612",
+      "pHash": "e419c3969367ce1c",
+      "wHash": "f3c3818180f0f0f0"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\王宠.jpg",
+      "aHash": "ffcfc18097ffe7f7",
+      "dHash": "15980b1164510f4d",
+      "pHash": "f2789185cc6bcb26",
+      "wHash": "cfc7c080036fc3e7"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\王慈.jpg",
+      "aHash": "ffe3c3e1c38b93ff",
+      "dHash": "254613078b32360a",
+      "pHash": "ed63961ec2cc9991",
+      "wHash": "f3e3c1c1818191ff"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\王羲之.jpg",
+      "aHash": "ffe3e3e1c193f7f7",
+      "dHash": "084e560719742504",
+      "pHash": "e6719516dac48d59",
+      "wHash": "e7c3c3c18003f3f3"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\赵佶.jpg",
+      "aHash": "ffe1f5c93273fbff",
+      "dHash": "002d8d1366c6128b",
+      "pHash": "ee72958599c99256",
+      "wHash": "f7e0e0c01263f1f9"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\赵子昂.jpg",
+      "aHash": "ffc787c183a7e7ff",
+      "dHash": "439c2f132b6c0f60",
+      "pHash": "f278959749639694",
+      "wHash": "3800000001072038"
+    },
+    {
+      "fontType": "冬",
+      "fontFilePath": "../标准数据集\\冬\\赵构.jpg",
+      "aHash": "ffe3c3e181d7f3ff",
+      "dHash": "214f160b13342616",
+      "pHash": "e463869cdbcc9439",
+      "wHash": "f7c3c3c101031373"
+    }
+  ],
+  [
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3816 陆柬之.gif",
+      "aHash": "ffebcbc38b8bfbff",
+      "dHash": "00129a1a3a321240",
+      "pHash": "b933c69c36e49919",
+      "wHash": "ffc1c1830189c1ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3817 欧阳询.gif",
+      "aHash": "ffebebc383cbebff",
+      "dHash": "000652961a121202",
+      "pHash": "b9e6c61916e0d13b",
+      "wHash": "fce0c0c003c3cbfb"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3818 敬世江.gif",
+      "aHash": "ffedcdc185cdedff",
+      "dHash": "001999151d991900",
+      "pHash": "fac7c538a5c39093",
+      "wHash": "ffcd8d01018c88ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3819 李瑞清.gif",
+      "aHash": "ffe3c3c3fff7f7ff",
+      "dHash": "080e0e1e04250d08",
+      "pHash": "e361cecc993331c3",
+      "wHash": "0c0000002030243c"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3820 米芾.gif",
+      "aHash": "ffedc981c1c9fdff",
+      "dHash": "201b1b1b1b9bb900",
+      "pHash": "fb63869c244c3b33",
+      "wHash": "efc9808081c1080c"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3821 明人.gif",
+      "aHash": "ffefc981c199fbff",
+      "dHash": "03189b1313331340",
+      "pHash": "f9b3861c664d19b1",
+      "wHash": "ffc781818189093f"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3822 隋人.gif",
+      "aHash": "ffe7e5c185e9f9ff",
+      "dHash": "040a4b0b190b0310",
+      "pHash": "f3378c983cccc332",
+      "wHash": "1f07010180c0c8ce"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3823 王铎.gif",
+      "aHash": "fff9c9c383cbdbff",
+      "dHash": "18031b1b379a1204",
+      "pHash": "b94bc61c96b1314f",
+      "wHash": "0f09080080c0083c"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3824 王羲之.gif",
+      "aHash": "ffedc98189c9ffff",
+      "dHash": "00099b1b1b1b4b30",
+      "pHash": "b962c69db4c4389b",
+      "wHash": "dec040008189393f"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3825 颜真卿.gif",
+      "aHash": "ffe5c181c5edf9ff",
+      "dHash": "040999590d195324",
+      "pHash": "fb328592964ddab0",
+      "wHash": "ffc1c18084c1e1ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3826 颜真卿.gif",
+      "aHash": "ffffe9e9c9cbfbff",
+      "dHash": "08084b5b9a1a5220",
+      "pHash": "e9c2963879653bc8",
+      "wHash": "3f272101010b0b1f"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3827 杨维桢.gif",
+      "aHash": "ffe7ebebc3c3fbff",
+      "dHash": "040a5a5216b21202",
+      "pHash": "e983963ca6c93963",
+      "wHash": "f7e3cbe303030b0b"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3828 赵孟頫.gif",
+      "aHash": "fffbc9c3c3cbfbff",
+      "dHash": "00121a1a1a520200",
+      "pHash": "e93386ccb630399b",
+      "wHash": "fee0c383c0c0f0fc"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\3829 赵孟頫.gif",
+      "aHash": "ffedc18585cdffff",
+      "dHash": "104b951d19931320",
+      "pHash": "bb66c41936e4d88b",
+      "wHash": "0e0041010509090f"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\吴镇.jpg",
+      "aHash": "efefcfdf93899fff",
+      "dHash": "0a5a92b4333333b0",
+      "pHash": "b8e3c33cc79c48cc",
+      "wHash": "e0c8c0d08189195b"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\孙过庭.jpg",
+      "aHash": "ffcfddc981098bff",
+      "dHash": "1994b9931b5b1230",
+      "pHash": "b9d08623e4dcc33e",
+      "wHash": "ffcfd980810101ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\宋克.jpg",
+      "aHash": "ffc7cfc3c189fbff",
+      "dHash": "4a0b181b1b1b0326",
+      "pHash": "b933c64b66cd981c",
+      "wHash": "e7c787818189c1c3"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\徐伯清.jpg",
+      "aHash": "ffe9c9c1c9c9ffff",
+      "dHash": "041b931b1b9b1409",
+      "pHash": "e96b86953624c9cb",
+      "wHash": "e3c1c0808181e0fc"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\怀素.jpg",
+      "aHash": "ffefdfcd89c1cbff",
+      "dHash": "4a1b94991b1bb344",
+      "pHash": "b996c67b86ccc28c",
+      "wHash": "23030f09808081ef"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\敬世江.jpg",
+      "aHash": "ffefccc7818c89ff",
+      "dHash": "284a9d1959191b14",
+      "pHash": "bbc7c51a8788d8c5",
+      "wHash": "ffc7cc80008c89ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\智永.jpg",
+      "aHash": "ffe7cfcf818d89ff",
+      "dHash": "4a1a599a0d192b14",
+      "pHash": "b3b3c44a8cccd26d",
+      "wHash": "2c04c484818181ef"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\欧阳询.jpg",
+      "aHash": "ffcf9fd181c9efff",
+      "dHash": "509720331b135a19",
+      "pHash": "b894c7796ac78e12",
+      "wHash": "00009e808189c3e3"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\毛泽东.jpg",
+      "aHash": "fce4cded811999ff",
+      "dHash": "294d19991573b336",
+      "pHash": "fac2c40df4899b3c",
+      "wHash": "fce4cdc5850901df"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\沈粲.jpg",
+      "aHash": "ffdd898f8399e3ff",
+      "dHash": "1431391c3333460d",
+      "pHash": "b8dac28db1a70b66",
+      "wHash": "ff99888f811903cf"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\王升.jpg",
+      "aHash": "ffe7cfdf81899bff",
+      "dHash": "080ab9b4331b6601",
+      "pHash": "b8f2c76bcc8c581c",
+      "wHash": "e7c78f8f818180bc"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\王献之.jpg",
+      "aHash": "ffe7cfc1858dd1ff",
+      "dHash": "204f180f59113300",
+      "pHash": "bbb7c44ac66c9889",
+      "wHash": "ffc78781008981ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\王羲之.jpg",
+      "aHash": "ffefdfcf83c1d9ff",
+      "dHash": "080a961816391316",
+      "pHash": "b9b7c74ab4c88c85",
+      "wHash": "e7c7cf8f8080c9c3"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\蒋善进.jpg",
+      "aHash": "ffe7cf83858d8bff",
+      "dHash": "0e4d981b1d195304",
+      "pHash": "bbb1c55a8c8dd8c4",
+      "wHash": "efc7cf81048881f7"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\褚遂良.jpg",
+      "aHash": "ffe7cfc380c9cbff",
+      "dHash": "2c4f181b4d199310",
+      "pHash": "f386846ac6b9c89e",
+      "wHash": "e7e7cfc100c0c1cf"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\赵佶.jpg",
+      "aHash": "ffefdfe3818debff",
+      "dHash": "0a1a101b19490b04",
+      "pHash": "bb94c43b64c59e38",
+      "wHash": "e7c7cfc1818181f3"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\赵子昂.jpg",
+      "aHash": "ffe787c3818d89ff",
+      "dHash": "4a8d1c1b1d191310",
+      "pHash": "bba6c54ac58d983c",
+      "wHash": "efc78781808889ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\赵构.jpg",
+      "aHash": "ffcfcfc181899bff",
+      "dHash": "081b989b19331681",
+      "pHash": "b9b3855ae2a59a92",
+      "wHash": "efc7c7c1808801ff"
+    },
+    {
+      "fontType": "利",
+      "fontFilePath": "../标准数据集\\利\\陆居仁.jpg",
+      "aHash": "ffc78f9f818187ff",
+      "dHash": "489a393613131e19",
+      "pHash": "b992c76bc49c1c74",
+      "wHash": "e7878f8b818183cf"
+    }
+  ],
+  [
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1360 黄庭坚.gif",
+      "aHash": "ffe387c3c3c3adff",
+      "dHash": "001e2f1b1e0f5900",
+      "pHash": "b334cec9c01b1e9e",
+      "wHash": "ffc303c3c38100ff"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1361 敬世江.gif",
+      "aHash": "fff7d387e3c1e5ff",
+      "dHash": "080e366f0e170d00",
+      "pHash": "e78cd861971e19c5",
+      "wHash": "3f23810303000037"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1362 康有为.gif",
+      "aHash": "ffe7c3c7c783e9ff",
+      "dHash": "204e0e0f8c2f4b00",
+      "pHash": "b3b2cd4f90483cb3",
+      "wHash": "ffe783830301213f"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1363 陆柬之.gif",
+      "aHash": "ffe7c7c3e3c3cbff",
+      "dHash": "100e0d0f469f1b48",
+      "pHash": "b3c69b61c43834e7",
+      "wHash": "0f0383830200000c"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1364 苏轼.gif",
+      "aHash": "ffc7cfc38381afff",
+      "dHash": "029c9b1b3e375d1a",
+      "pHash": "b9b0c34eccc3ccb1",
+      "wHash": "ffc78781838104ef"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1365 苏轼.gif",
+      "aHash": "ffe78787c3c18fff",
+      "dHash": "200f0d0f9e1b1904",
+      "pHash": "b3b6cf69841e4ca4",
+      "wHash": "3c040000c08080f2"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1366 王羲之.gif",
+      "aHash": "ffe7e3c7c3c3c1ff",
+      "dHash": "100c060d0e162b09",
+      "pHash": "e3868e699318cc6f",
+      "wHash": "3c240004c0c081ff"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1367 王羲之.gif",
+      "aHash": "ffefe7c7c3c381ff",
+      "dHash": "104a0d8f1e972b68",
+      "pHash": "b3938e69993ec486",
+      "wHash": "efe70343c1c1818f"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1368 王羲之.gif",
+      "aHash": "ffc7e7c7c3c3c7ff",
+      "dHash": "009d4d8b9e962f20",
+      "pHash": "b1938e6dcc96c532",
+      "wHash": "3b0307010103033f"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1369 王献之.gif",
+      "aHash": "ffefc3c3c3898fff",
+      "dHash": "225c0e8e971b2a00",
+      "pHash": "b9a68659c41e6ba6",
+      "wHash": "fcc4c0c0c181003c"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1370 王献之.gif",
+      "aHash": "ffefc3c3c3c98fff",
+      "dHash": "221d0e8e971b2a01",
+      "pHash": "b1c68e59c49e69a6",
+      "wHash": "20000000c08080fc"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1371 文征明.gif",
+      "aHash": "ffe7e3e7e3c3cbff",
+      "dHash": "004e4e4f4f0a2a00",
+      "pHash": "e3b69849c6306dc7",
+      "wHash": "dcc0e3c1e18181ff"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1372 吴说.gif",
+      "aHash": "ffe7e7c7c3c389ff",
+      "dHash": "000d4d8e9e161b00",
+      "pHash": "b3c6ce3992398c93",
+      "wHash": "3c240400c08081ff"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1373 赵孟頫.gif",
+      "aHash": "ffefc7c7c3c3cbff",
+      "dHash": "205a0d9e961f1b00",
+      "pHash": "b192ce6dc41a66b6",
+      "wHash": "dcc484c0030181df"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1374 赵孟頫.gif",
+      "aHash": "ffcfcfc78783c9ff",
+      "dHash": "009a1a1f3c675308",
+      "pHash": "b9b0c34fc6638738",
+      "wHash": "ffc78383840000ff"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\哀-1375 赵孟頫.gif",
+      "aHash": "ffe7c787c3c1e5ff",
+      "dHash": "100e0d2f1e178b38",
+      "pHash": "b386cb799ec68c30",
+      "wHash": "ffe383878381011f"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\孙过庭.jpg",
+      "aHash": "ffc7e7cf8fcd81f7",
+      "dHash": "500d4e8d1c112d0c",
+      "pHash": "b2b3c6188dce9927",
+      "wHash": "2c040404878d81e7"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\徐伯清.jpg",
+      "aHash": "ffc7efc7c381cdff",
+      "dHash": "101d1a1d862b191a",
+      "pHash": "b395cb6e849b8c61",
+      "wHash": "cfc7c7c3818181cf"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\敬世江.jpg",
+      "aHash": "ffcfcf8fc9c587ff",
+      "dHash": "009a9b1a1b1b1c13",
+      "pHash": "b1c1c61ccd37ccc3",
+      "wHash": "1f070703818187ef"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\毛泽东.jpg",
+      "aHash": "ffc7c7e7c7e7c9eb",
+      "dHash": "58141d4a8d0d198b",
+      "pHash": "b395c93686cb8e38",
+      "wHash": "ecc0c0e0c4c4c1c1"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\王导.jpg",
+      "aHash": "ffc7c7c7cf81fbff",
+      "dHash": "209a0a08922b4314",
+      "pHash": "b132cc4c96c74ecd",
+      "wHash": "9c84c484cb81f1f3"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\王献之.jpg",
+      "aHash": "ffc3c3e7e7cbc1ff",
+      "dHash": "5856074d4c1b2b04",
+      "pHash": "e331cc99964e99c6",
+      "wHash": "ecc0c0e0e7c181f7"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\王羲之.jpg",
+      "aHash": "ffcfcbc98bc18fff",
+      "dHash": "229c9b1b13331a10",
+      "pHash": "b993964ccd03ce35",
+      "wHash": "dfc7c189838183cf"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\皇象.jpg",
+      "aHash": "ffc7c7c7c381a7ff",
+      "dHash": "10949d080f1b4813",
+      "pHash": "b3b48d4bd4974964",
+      "wHash": "cfc3c3c7810027ef"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\祝枝山.jpg",
+      "aHash": "f7c3c1ececef7fff",
+      "dHash": "058e0f491d0ac1c8",
+      "pHash": "e2648495dacba9b5",
+      "wHash": "e3c3c1c0c0e33333"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\贺知章.jpg",
+      "aHash": "ffc7f7c7c9898fff",
+      "dHash": "101d0f0c1b3b1c1b",
+      "pHash": "b1c6c538c786ccf1",
+      "wHash": "cfc3c387818187cf"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\赵子昂.jpg",
+      "aHash": "ffe7f3c3c9c187ff",
+      "dHash": "120d062e1bbb2c4d",
+      "pHash": "b6c1875a9924c9cf",
+      "wHash": "2f270303818183a7"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\陆游.jpg",
+      "aHash": "efe7c7c7e7c389ff",
+      "dHash": "180d8d8d0c171b10",
+      "pHash": "b3869929c63acc9b",
+      "wHash": "ccc0c4c4c381012d"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\陈淳.jpg",
+      "aHash": "ffefc7cf8981e7ff",
+      "dHash": "001e0f9833594d20",
+      "pHash": "b3b0c64e9ca34fb0",
+      "wHash": "2c04000081000038"
+    },
+    {
+      "fontType": "哀",
+      "fontFilePath": "../标准数据集\\哀\\颜真卿.jpg",
+      "aHash": "ffcfe7c38b89cfff",
+      "dHash": "4a1a489e321b9832",
+      "pHash": "b1c6c648ccb3ce3c",
+      "wHash": "e0c0c4c000000c0c"
+    }
+  ],
+  [
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4382 欧阳询.gif",
+      "aHash": "ffffe3c3c7e7e7ff",
+      "dHash": "04080e968e4c0e00",
+      "pHash": "b3cccc934c6463ce",
+      "wHash": "3f2f03030327071f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4383 陈继儒.gif",
+      "aHash": "fff7f383c3f3e3ff",
+      "dHash": "12053627a6060600",
+      "pHash": "e4989b669239cdc9",
+      "wHash": "3f3381830321213f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4384 董其昌.gif",
+      "aHash": "ffe7e383e7e3cfff",
+      "dHash": "100e0b0f4d0e1e00",
+      "pHash": "e7ce99329e1969c0",
+      "wHash": "3f23818183c3c7ef"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4385 敬世江.gif",
+      "aHash": "ffd3c187a7f3f3ff",
+      "dHash": "0916972f44072700",
+      "pHash": "e499c9e6936cd069",
+      "wHash": "ffc3c18183c3213f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4386 梁巘.gif",
+      "aHash": "fff7f3d187e3e3ff",
+      "dHash": "02240737240f0e20",
+      "pHash": "e4ccc3339869c796",
+      "wHash": "0000500000000004"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4387 刘焘.gif",
+      "aHash": "ffe3d38187e7e3ff",
+      "dHash": "284e26270d0e0e10",
+      "pHash": "a64cc3f3987cc495",
+      "wHash": "3323838180e2233f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4388 唐寅.gif",
+      "aHash": "ffe7c187e3c3ffff",
+      "dHash": "010c870f4e8e1d02",
+      "pHash": "a63cc9c79e1869c6",
+      "wHash": "fcc0c18183c3073f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4389 王羲之.gif",
+      "aHash": "ffffc3c3e7c7dfff",
+      "dHash": "22480a964d0d9408",
+      "pHash": "b34dcd929e2c61c3",
+      "wHash": "ffe3410304000030"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4390 翁同和.gif",
+      "aHash": "fff3f18383f3e3ff",
+      "dHash": "230427272e264e0a",
+      "pHash": "ec8cd3361969cc33",
+      "wHash": "fff3908001030002"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4391 颜真卿.gif",
+      "aHash": "fff7f193c7e7e3ff",
+      "dHash": "000f2726054f0600",
+      "pHash": "e6c99b32984dc363",
+      "wHash": "ffe3818180c0e0fc"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4392 胤祯.gif",
+      "aHash": "fff7d181f3e3e3ff",
+      "dHash": "1046973726070f00",
+      "pHash": "e49893e79c3964c6",
+      "wHash": "fef040000040000e"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4393 赵孟頫.gif",
+      "aHash": "fff7f393c3c18fff",
+      "dHash": "280f27370e1d7f40",
+      "pHash": "eec49b33941c6987",
+      "wHash": "ffe19181838007ff"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4394 智永.gif",
+      "aHash": "fff7f18183e3e3ff",
+      "dHash": "0224072726070e10",
+      "pHash": "e6ce93369969c930",
+      "wHash": "fce4e1810000c1f7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\4395 智永.gif",
+      "aHash": "fff7c3c3c7c3c3ff",
+      "dHash": "120c8e970c0e3300",
+      "pHash": "e4c68bb398696786",
+      "wHash": "fce4c381838181ff"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-孙过庭(40).jpg",
+      "aHash": "fff7f18187e7e7ff",
+      "dHash": "4d24476d2c0d2d0a",
+      "pHash": "e64cc9b21b5bc9c1",
+      "wHash": "f4f0a00000c0e0e0"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-张瑞图(54).jpg",
+      "aHash": "fff981f3c1e3e3ff",
+      "dHash": "04332306870e4e06",
+      "pHash": "e58d9333c8a63669",
+      "wHash": "fb8181f1c1c1c3f3"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-归庄(29).jpg",
+      "aHash": "fff991a1f1f1f1f9",
+      "dHash": "5203336b43230703",
+      "pHash": "ed9390e193373e48",
+      "wHash": "f9d98001b1f1f1f1"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-归庄(30).jpg",
+      "aHash": "ffff9183f1f3f3ff",
+      "dHash": "2402336a03262703",
+      "pHash": "ed9b926493363a49",
+      "wHash": "fcf8000031213032"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-徐伯清(51).jpg",
+      "aHash": "fff38187e3e3e3ff",
+      "dHash": "0807272d064f4e0c",
+      "pHash": "e69c996398339a69",
+      "wHash": "f793818300000020"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-徐伯清(52).jpg",
+      "aHash": "ffe7e181e7e7e7ef",
+      "dHash": "2d0c2b2b0c0d0e1e",
+      "pHash": "e6ce91b39839c9c1",
+      "wHash": "e7e7818183c3c3c7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-徐伯清(53).jpg",
+      "aHash": "fff3f183e3e3f3ff",
+      "dHash": "0407072704462628",
+      "pHash": "e49899a69b394bc3",
+      "wHash": "f3f3818303232327"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-怀素(31).jpg",
+      "aHash": "fff981c3e3e3e7ff",
+      "dHash": "18035316174e0f00",
+      "pHash": "e9499ab69534275a",
+      "wHash": "050000c100200004"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-怀素(32).jpg",
+      "aHash": "fff18183f3f3ffff",
+      "dHash": "520355160612040a",
+      "pHash": "ed4ac3c594b695c2",
+      "wHash": "f3f1a18303032327"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-敬世江(35).jpg",
+      "aHash": "fff181b7c3e3e3ff",
+      "dHash": "680f4764070f4e24",
+      "pHash": "e69bd9e09c271961",
+      "wHash": "f7e0800383e3e3e7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-文征明(46).jpg",
+      "aHash": "fff78183e3e3c3ff",
+      "dHash": "09042727240f9600",
+      "pHash": "e4cc99b29a394fc1",
+      "wHash": "3f330101c3c3c1ff"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-智永(26).jpg",
+      "aHash": "ffe7c3c3e7e7e7ff",
+      "dHash": "160826a6084e0d00",
+      "pHash": "e66cc993986c4dc3",
+      "wHash": "dfc703430707073f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-智永(58).jpg",
+      "aHash": "ffe7c183e7e7e7f7",
+      "dHash": "080b232f0d4f4d0c",
+      "pHash": "e649d993986c4d63",
+      "wHash": "e6e08181c7c7c3e3"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-武则天(47).jpg",
+      "aHash": "fff7c1a7c7e7c3c3",
+      "dHash": "0a0c0f2f8d0c0f07",
+      "pHash": "e68ec9b398699968",
+      "wHash": "e7e78185c7c7c181"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-毛泽东(25).jpg",
+      "aHash": "fff1f1a733f3f3f3",
+      "dHash": "0827076c65472766",
+      "pHash": "e6c9d09697f2614c",
+      "wHash": "3f31210303233333"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-沈粲(38).jpg",
+      "aHash": "ffdb8183f3f1e1ff",
+      "dHash": "58b3276666074b04",
+      "pHash": "ec1c91c3973352ec",
+      "wHash": "dfd1808381e1e1f7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-王献之(45).jpg",
+      "aHash": "fff3e193a1f1f3ff",
+      "dHash": "043707672b032704",
+      "pHash": "ed9290e99734c363",
+      "wHash": "f3f1e00181e1f1f3"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-王羲之(43).jpg",
+      "aHash": "fff3f18da3e3e3fb",
+      "dHash": "0556035566074602",
+      "pHash": "e499d1269b5ac26d",
+      "wHash": "f3f3e00020e0e0f0"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-王羲之(44).jpg",
+      "aHash": "fffb9181f3f3f3f3",
+      "dHash": "4312375706262626",
+      "pHash": "ed9b92e4933ac8c4",
+      "wHash": "fbdb918103332123"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-王铎(41).jpg",
+      "aHash": "fffb81a3e7e7f3ff",
+      "dHash": "4b226757044d2605",
+      "pHash": "e60999b2903f3b6c",
+      "wHash": "fb930001e0e0e0f4"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-王铎(42).jpg",
+      "aHash": "fff3a1a3f3f3f3ff",
+      "dHash": "4207475606272616",
+      "pHash": "e419d9e4933f3268",
+      "wHash": "cb830003a0e0f0f2"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-皇象(33).jpg",
+      "aHash": "ffe3a9a5e7c3c3ff",
+      "dHash": "1d0a6b6b8c0f1e18",
+      "pHash": "e3cbd8b4961eca60",
+      "wHash": "efe18181c3c383cf"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-米芾(37).jpg",
+      "aHash": "f7f5f183e3e7c3c7",
+      "dHash": "260527264f0f171e",
+      "pHash": "e6ce90a3953dc169",
+      "wHash": "f7f59181e1e38183"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-苏迈(39).jpg",
+      "aHash": "fff3f38193c7e7ff",
+      "dHash": "09260707262d4d24",
+      "pHash": "e6c9d1361a63d92c",
+      "wHash": "080060008080e0fc"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-蔡卞(27).jpg",
+      "aHash": "fff3c3d7e3e7e3ff",
+      "dHash": "24062f2d050d4e05",
+      "pHash": "e6c99966981a3367",
+      "wHash": "f0f0819720202034"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-褚遂良(28).jpg",
+      "aHash": "ffd7d183e3e3e3e7",
+      "dHash": "08af3337462e0d0e",
+      "pHash": "e49893e79b1e4961",
+      "wHash": "e7819181c3e3c3e7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-赵佶(56).jpg",
+      "aHash": "fff3b19387e3e3ff",
+      "dHash": "17162765440f4e09",
+      "pHash": "e6ccc1339b0eda62",
+      "wHash": "f3f3900103c3e3e7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-赵子昂(57).jpg",
+      "aHash": "fff1f181a3e3e3ff",
+      "dHash": "1023034726070608",
+      "pHash": "e6d991a69b6bc0c4",
+      "wHash": "0000000002600006"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-赵构(55).jpg",
+      "aHash": "fff7f183e7e7e3ff",
+      "dHash": "0b2407272c0d4e12",
+      "pHash": "e6cc99b69969c9c0",
+      "wHash": "3f33e18180e0c0ec"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-陆游(36).jpg",
+      "aHash": "fff3d1c3b3f3f3ff",
+      "dHash": "1242931766260727",
+      "pHash": "ed59d2869271da0e",
+      "wHash": "f3f1c08103b1f1f3"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-鲜于去矜(48).jpg",
+      "aHash": "fff80923f3f3f3f3",
+      "dHash": "4a035b5a46162626",
+      "pHash": "ed1bd0e497379160",
+      "wHash": "f1f00003b0f0f0f0"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-鲜于枢(49).jpg",
+      "aHash": "fff18197e7e3e1ff",
+      "dHash": "28032724050f2f08",
+      "pHash": "e619d9e2943e3263",
+      "wHash": "fff18183e2e0e0e4"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-鲜于枢(50).jpg",
+      "aHash": "ffe9a3f3e3e3e3ff",
+      "dHash": "02536706464e4b0c",
+      "pHash": "e7c89b6294969627",
+      "wHash": "f8c080e020200000"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\坐-黄庭坚(34).jpg",
+      "aHash": "fff18383f3f1f1ff",
+      "dHash": "5003576404070300",
+      "pHash": "ec3699c0b63999c9",
+      "wHash": "fef00101e2f0f0f2"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\孙过庭.jpg",
+      "aHash": "fff7f18187e7e7ff",
+      "dHash": "2d24476d0c0d0d18",
+      "pHash": "e66cc9b21b1bc8c9",
+      "wHash": "0703a00083e3c7cf"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\张瑞图.jpg",
+      "aHash": "fff981f3c1e3e3ff",
+      "dHash": "04232706870e4e26",
+      "pHash": "e5cd9333c8863669",
+      "wHash": "fb8181f1c1c3c1f3"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\归庄.jpg",
+      "aHash": "fffb91a3f1f3f3ff",
+      "dHash": "2402236a03262702",
+      "pHash": "ed9b926493363649",
+      "wHash": "fffb818131213133"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\徐伯清.jpg",
+      "aHash": "fff3e183e3e3f3ff",
+      "dHash": "0407072504062608",
+      "pHash": "e60899e693396bc3",
+      "wHash": "03030103e3e3e3e7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\怀素.jpg",
+      "aHash": "fff18183f3f3ffff",
+      "dHash": "1203551406160c0a",
+      "pHash": "ed4ad3c594b63582",
+      "wHash": "f2f08183f0f0e4ec"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\敬世江.jpg",
+      "aHash": "fff181b7c3e3e3ff",
+      "dHash": "680f4764870f4e04",
+      "pHash": "e61bd9e09c271969",
+      "wHash": "e7e00003c3e3e1ff"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\文征明.jpg",
+      "aHash": "fff78183e7e3c3ff",
+      "dHash": "08062727040f9600",
+      "pHash": "e4cc99b29a394bc3",
+      "wHash": "3c3081810000013f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\智永.jpg",
+      "aHash": "fff7f383c7e3e3ff",
+      "dHash": "022d472725470e00",
+      "pHash": "e6cc9b329869c3d2",
+      "wHash": "0f0741010343033f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\武则天.jpg",
+      "aHash": "fff7c1a7c7e7c3c3",
+      "dHash": "0a0d0b2f8d0c0f07",
+      "pHash": "e68ec9b398699968",
+      "wHash": "e7e78185c7c781c1"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\毛泽东.jpg",
+      "aHash": "fff1e1a733f3f3f3",
+      "dHash": "0c27076c67472726",
+      "pHash": "e6c9d0969772e14c",
+      "wHash": "fff1a1030020f0f0"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\沈粲.jpg",
+      "aHash": "ffdb8183f3e1e3ff",
+      "dHash": "18b3276666074b04",
+      "pHash": "ec1c91c3973752e4",
+      "wHash": "df918103a1e1e1f7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\王献之.jpg",
+      "aHash": "fff3e193e1f1f3ff",
+      "dHash": "041747672b032708",
+      "pHash": "ed1290e99716c373",
+      "wHash": "3331e00181e1f1f7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\王羲之.jpg",
+      "aHash": "fffb9181f3f3f3ff",
+      "dHash": "4336375706262606",
+      "pHash": "ec9b92e4933ad8c4",
+      "wHash": "f8d811013030001e"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\王铎.jpg",
+      "aHash": "fff3a1a3f3f3f3ff",
+      "dHash": "5207475606270604",
+      "pHash": "ec19d9e4923f3268",
+      "wHash": "c880000323233133"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\皇象.jpg",
+      "aHash": "ffe3a9a5e7c3c3ff",
+      "dHash": "1d0a6b6b8c0f1e00",
+      "pHash": "e3cbc8b0961ecbc8",
+      "wHash": "efc18181c38383ff"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\米芾.jpg",
+      "aHash": "f7f5f183e3e7c3cf",
+      "dHash": "260527264f0f171c",
+      "pHash": "e4ce90a3953dc969",
+      "wHash": "f7f49181e1e181c7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\苏迈.jpg",
+      "aHash": "fff3f18193c7e7ff",
+      "dHash": "09260707260d4d20",
+      "pHash": "e6c9d1361a63d98c",
+      "wHash": "3f33e1810303031f"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\蔡卞.jpg",
+      "aHash": "fff3c3d7e3e7e3ff",
+      "dHash": "24062f2d050f4700",
+      "pHash": "e6499966989a3367",
+      "wHash": "c3c3819720202034"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\褚遂良.jpg",
+      "aHash": "ffd7d183e3e3e3ff",
+      "dHash": "08af3337060e0d0e",
+      "pHash": "e41893e79b1e4969",
+      "wHash": "ef81818120200034"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\赵佶.jpg",
+      "aHash": "fff3b19387e3e3ff",
+      "dHash": "171627654c0f4e08",
+      "pHash": "e6ccc1329b0e5b72",
+      "wHash": "f3f3900103c3e3e7"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\赵子昂.jpg",
+      "aHash": "fff1f181a3e3e3ff",
+      "dHash": "1023034726070600",
+      "pHash": "e6c991a69b3bc8c4",
+      "wHash": "fef0c08080e02034"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\赵构.jpg",
+      "aHash": "fff7f183e7e7e3ff",
+      "dHash": "0b2447272d4f4e10",
+      "pHash": "e6cc99b69c694bc0",
+      "wHash": "fff7a18180e0c0fc"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\陆游.jpg",
+      "aHash": "fff3c1c3b3f3f3ff",
+      "dHash": "1242935766260707",
+      "pHash": "ed59d2869671d80e",
+      "wHash": "f3f1c00103f1f1f3"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\鲜于去矜.jpg",
+      "aHash": "fff80923f3f3f3f7",
+      "dHash": "4a035b5e06862606",
+      "pHash": "ed1bd0e497379160",
+      "wHash": "f1f0002b03030303"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\鲜于枢.jpg",
+      "aHash": "ffe9a3f3e3e3e3ff",
+      "dHash": "02436706464e4b08",
+      "pHash": "e7c89b6294949637",
+      "wHash": "fbc181e32321203e"
+    },
+    {
+      "fontType": "坐",
+      "fontFilePath": "../标准数据集\\坐\\黄庭坚.jpg",
+      "aHash": "fff18383f3f1f9ff",
+      "dHash": "5003576404070300",
+      "pHash": "ec3799c0b6399989",
+      "wHash": "040001030210010f"
+    }
+  ],
+  [
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\49 陆柬之.gif",
+      "aHash": "efe7e7e3c3e7cfdf",
+      "dHash": "4a4d0a460f4d1a34",
+      "pHash": "b36398e34cc99b38",
+      "wHash": "24040420c3c7cf8f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\50 欧阳询.gif",
+      "aHash": "ffe7e7e3e3e7cfdf",
+      "dHash": "044509460f0a1ab4",
+      "pHash": "b3669cc3cc999331",
+      "wHash": "3f23070303074f1f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\51 董其昌.gif",
+      "aHash": "ffe7c7e7c3c3c7ff",
+      "dHash": "044a1f0c1a8e8f00",
+      "pHash": "b393ce6ccc363131",
+      "wHash": "1f0707070303030f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\52 归庄.gif",
+      "aHash": "fff7e7e7e3c3e3ff",
+      "dHash": "002d2d4d0e8e0600",
+      "pHash": "e6869969993631ce",
+      "wHash": "3c24242000000038"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\53 海瑞.gif",
+      "aHash": "ffe3e3e3e7e7cfff",
+      "dHash": "000e06060d1e9028",
+      "pHash": "e6649993c64dc936",
+      "wHash": "3723212123070f1f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\54 近人.gif",
+      "aHash": "ffe3e3e3f7e7cfff",
+      "dHash": "004e4f06254f1a24",
+      "pHash": "e6669999cc999394",
+      "wHash": "2c20000003070f1f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\55 敬世江.gif",
+      "aHash": "ffe7e7e7e7e7cfff",
+      "dHash": "040d4d4d0d4f1a14",
+      "pHash": "b2e6996dcc99c624",
+      "wHash": "10002404c3e3cfcf"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\56 李世民.gif",
+      "aHash": "fff7e3e3e3e7cfff",
+      "dHash": "002f0f0e4e4d1a24",
+      "pHash": "e666999b4d19c631",
+      "wHash": "3c200000c0e4ccfc"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\57 李邕.gif",
+      "aHash": "fff7e3c3e3f3cfff",
+      "dHash": "102f460f0e051e10",
+      "pHash": "e66699cd9931e449",
+      "wHash": "3c20600021210004"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\58 柳公权.gif",
+      "aHash": "ffe3e3e3e7cfcfff",
+      "dHash": "020507060d5a9428",
+      "pHash": "e6669993c648d396",
+      "wHash": "3f232323230f0f3f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\59 米芾.gif",
+      "aHash": "fff3e3f3e3e3cfff",
+      "dHash": "0007062707451a20",
+      "pHash": "e4cd9bb2c9186639",
+      "wHash": "3f3121312123041c"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\60 米芾.gif",
+      "aHash": "ffe7c7e3e7e7cfff",
+      "dHash": "004d0f4e0f4d1a24",
+      "pHash": "e366999ecc399298",
+      "wHash": "3c04002020200030"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\61 王铎.gif",
+      "aHash": "ffe7e3e3e3e7cfff",
+      "dHash": "0c4f4526060d1f10",
+      "pHash": "e6679992cd18a699",
+      "wHash": "f0e0c3e1e08084cc"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\62 王铎.gif",
+      "aHash": "ffefc7e3e3e7cfff",
+      "dHash": "205e1d064f4d1a14",
+      "pHash": "b33399cecc399231",
+      "wHash": "3c040000e0e4c0f0"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\63 王份.gif",
+      "aHash": "ffe3e3e3f3e3cfff",
+      "dHash": "0206060626461a30",
+      "pHash": "e4669999c893e699",
+      "wHash": "fbe3e3e300000004"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\64 王升.gif",
+      "aHash": "fff7e3e3e3e7cfff",
+      "dHash": "00274f06064d9a34",
+      "pHash": "e6c499b3cc399239",
+      "wHash": "fce0e0e02024043c"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\65 王羲之.gif",
+      "aHash": "ffcfcfc3c3e3e7ff",
+      "dHash": "009e989e9a160c1a",
+      "pHash": "b138c6c7c7869c39",
+      "wHash": "fcccccc0c0c0c4fc"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\66 王羲之.gif",
+      "aHash": "fff3e3e3e3e3cfff",
+      "dHash": "10270606074e1834",
+      "pHash": "e4649a92cdb1a679",
+      "wHash": "3c200301e0e280d8"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\67 王羲之.gif",
+      "aHash": "ffe7e7e3e3e7c3ff",
+      "dHash": "102e4d060f4d1610",
+      "pHash": "e6c6996699399299",
+      "wHash": "f0e0e0e02323033f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\68 赵孟頫.gif",
+      "aHash": "fff7e7e3e3e7cfff",
+      "dHash": "002d0d060f481a24",
+      "pHash": "e66699996c399332",
+      "wHash": "3727272320240c1c"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\69 赵孟頫.gif",
+      "aHash": "ffe7c3c7e3e7efff",
+      "dHash": "140d0e0d4e0f4810",
+      "pHash": "e63699cccc393165",
+      "wHash": "1c040000e3e3e7ff"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\70 赵孟頫.gif",
+      "aHash": "ffe7e7e3e3e7cfff",
+      "dHash": "004d4d0e0e4d1a24",
+      "pHash": "b3e69899cc99926c",
+      "wHash": "3c240400c3c7cfff"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\包世臣.jpg",
+      "aHash": "fff7e7e7c3c3c3ff",
+      "dHash": "042d0d0d8e9e8f20",
+      "pHash": "e6c69869cd963193",
+      "wHash": "372727230303031f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\吴镇.jpg",
+      "aHash": "efcfc7c7c3e3c3ff",
+      "dHash": "5a1a9d0d16460e9d",
+      "pHash": "b19b9b658e26cc38",
+      "wHash": "ccccc4c000000000"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\孙过庭.jpg",
+      "aHash": "ffc7e7c3e1c1c3ff",
+      "dHash": "109d0c0f4b9b2609",
+      "pHash": "e3939c69cb2499c6",
+      "wHash": "cfc7c7c1c08080e4"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\归庄.jpg",
+      "aHash": "fff7e7e7e3c3c3ff",
+      "dHash": "04252d4f0a8e0600",
+      "pHash": "e68698399b3619c7",
+      "wHash": "372323238181031f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\徐伯清.jpg",
+      "aHash": "ffefc7c7e3c3c7ff",
+      "dHash": "204a9a8f4e060d1a",
+      "pHash": "b39bcc64cd3038d9",
+      "wHash": "0f070703c3c3c3ff"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\徐渭.jpg",
+      "aHash": "ffe7c7c383c3c7ff",
+      "dHash": "2a4a9dae2b279e10",
+      "pHash": "b093936dcc346c9b",
+      "wHash": "2c0444008181c0c0"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\怀素.jpg",
+      "aHash": "ffcfefc7c3c3c7ef",
+      "dHash": "5a9e081e0e968d0a",
+      "pHash": "b1999a64cd86cec3",
+      "wHash": "2f07070300000004"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\敬世江.jpg",
+      "aHash": "fff7e7e7e3c3c1ff",
+      "dHash": "042d4d4f0a0e1709",
+      "pHash": "e79698698e71911b",
+      "wHash": "34240420828080e6"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\文天祥.jpg",
+      "aHash": "ffcfe7e7e3e1c3ff",
+      "dHash": "585a0c0e07070a10",
+      "pHash": "e393996c8e326699",
+      "wHash": "0f0f0707e1c1004c"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\文征明.jpg",
+      "aHash": "ffefe7e7c1c1c3ff",
+      "dHash": "004a0d4e0b0b964d",
+      "pHash": "f3938c69ccc49a66",
+      "wHash": "0f0707038181c3c7"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\智永.jpg",
+      "aHash": "ffe7c7c7c1e3c3f7",
+      "dHash": "0c4a8d0e8f4b962d",
+      "pHash": "b3938c6ccc8cc73c",
+      "wHash": "2707070301010307"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\毛泽东.jpg",
+      "aHash": "efefefcfc7c387bf",
+      "dHash": "5a5a5c1a15153d60",
+      "pHash": "b1c38e34cf38c4ce",
+      "wHash": "e0e0c0c0c080841c"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\王守仁.jpg",
+      "aHash": "ffe7e7e7e3c3c3ff",
+      "dHash": "0c2d4f4d0e960f08",
+      "pHash": "b3c68c69cc3319c7",
+      "wHash": "2424040400000024"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\王宠.jpg",
+      "aHash": "ffcfc7c3e3e3e7ef",
+      "dHash": "14929c9646460d4a",
+      "pHash": "a1999a66cd663393",
+      "wHash": "0c0c000000000004"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\王羲之.jpg",
+      "aHash": "ffe7e7e7c3c3c3e7",
+      "dHash": "2c2e0a1c1e8e160d",
+      "pHash": "b393ce6c9b309931",
+      "wHash": "f0e0c4c400000024"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\王铎.jpg",
+      "aHash": "efcfd7e3e3c3e7ff",
+      "dHash": "0a1aad4e028e0c0a",
+      "pHash": "b3999a71cdc624cc",
+      "wHash": "0f0f070300000424"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\皇象.jpg",
+      "aHash": "ffcf87e3c98183f7",
+      "dHash": "909f2d4f9b3b160d",
+      "pHash": "b9909479c3a69e66",
+      "wHash": "cfc787c1c18183e7"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\祝枝山.jpg",
+      "aHash": "ffe7c7878181e3ff",
+      "dHash": "24070d0e354b1364",
+      "pHash": "b2b6c54b9cb11a9c",
+      "wHash": "f3e387838181c1f7"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\萧衍.jpg",
+      "aHash": "f7e7efc7c3cbf3f7",
+      "dHash": "250d4a1d161a270c",
+      "pHash": "e592c66d989c99cc",
+      "wHash": "3323270303033327"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\蔡松年.jpg",
+      "aHash": "fff7e7e3f18181f7",
+      "dHash": "05254d06070b2306",
+      "pHash": "e6969849c53993e5",
+      "wHash": "f7e3c3c3e08081e3"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\薛绍彭.jpg",
+      "aHash": "ffe7e7e3e1c1c3ff",
+      "dHash": "0c4f4d4f0b0b160d",
+      "pHash": "e7969c69c9248e93",
+      "wHash": "24242200c18180c6"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\赵佶.jpg",
+      "aHash": "ffe7e7e7e3c3c7ff",
+      "dHash": "2c4d0f0d4a8e0d48",
+      "pHash": "b3868e6dcd3099d1",
+      "wHash": "f7e7c7c303030327"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\赵子昂.jpg",
+      "aHash": "ffefc7c7c3c3f3ff",
+      "dHash": "245a1d8e0a060600",
+      "pHash": "e192ce6d9a1c64e3",
+      "wHash": "3c2c00000303030f"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\陈伯智.jpg",
+      "aHash": "efefefc3c9c3c3f7",
+      "dHash": "0a0a589e2b5a160d",
+      "pHash": "b193866d8e34d1ce",
+      "wHash": "2727070381c1c3e7"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\陈淳.jpg",
+      "aHash": "ffcfc7c3c581e3ff",
+      "dHash": "189b9c0b9d2b460d",
+      "pHash": "b291c56ec2671e72",
+      "wHash": "cfcf8781858181f7"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\鲜于枢.jpg",
+      "aHash": "fff7f3e1e18383ff",
+      "dHash": "0704074d0b072304",
+      "pHash": "e6c69439da4c2d99",
+      "wHash": "f3e3e1e1c18181f3"
+    },
+    {
+      "fontType": "多",
+      "fontFilePath": "../标准数据集\\多\\黄慎.jpg",
+      "aHash": "ffe7e7e7e3c3c3ff",
+      "dHash": "084a4a4c46160600",
+      "pHash": "e793986d9e32898c",
+      "wHash": "ece4e4e0e0c0c0f4"
+    }
+  ],
+  [
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\孙过庭.jpg",
+      "aHash": "fbc1c3c3c3dbf3ff",
+      "dHash": "079b96950a324608",
+      "pHash": "e171cecf86849c33",
+      "wHash": "f1c183c3c383c3cf"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-807 邓文原.gif",
+      "aHash": "ffffe3c3c581f3ff",
+      "dHash": "005816968f2b1600",
+      "pHash": "e1919e3e922d2bc3",
+      "wHash": "3f0f03030101034f"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-808 傅山.gif",
+      "aHash": "ffe3e3e3c3d3f7ff",
+      "dHash": "000e06069b960d1a",
+      "pHash": "e566929999c69939",
+      "wHash": "ffc3c2c081c1233f"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-809 何绍基.gif",
+      "aHash": "fff7e3c7c18387ff",
+      "dHash": "000d0e95950e3e00",
+      "pHash": "b4c28f3fc93427c2",
+      "wHash": "fce4c0c0c00080fc"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-810 敬世江.gif",
+      "aHash": "fff3e1e3e3c1e1ff",
+      "dHash": "080747470e070918",
+      "pHash": "e7859a6c965a2563",
+      "wHash": "ffe1c1c3c18100ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-811 康里子山.gif",
+      "aHash": "ffe3c3e3c193e7ff",
+      "dHash": "004b1e0f0b360d12",
+      "pHash": "e173964c9296993b",
+      "wHash": "3f2101010101e3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-812 李柏.gif",
+      "aHash": "ffffe3e3c181ffff",
+      "dHash": "10250607070b3304",
+      "pHash": "e6e4991bc29527e4",
+      "wHash": "3f370101800189ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-813 李世民.gif",
+      "aHash": "fff7c1c38181efff",
+      "dHash": "100527af07079b60",
+      "pHash": "e8c493239db96e43",
+      "wHash": "fff181818181c1ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-815 李邕.gif",
+      "aHash": "fff1e1c38181e9ff",
+      "dHash": "0807071627671b11",
+      "pHash": "ebc4981f9491375a",
+      "wHash": "fff1c1c30001c1ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-816 沈嘉.gif",
+      "aHash": "ffe1c3e3c189fbff",
+      "dHash": "000b1b0e0b3b022d",
+      "pHash": "e163ccdc96c49a33",
+      "wHash": "ffe1c1c18181333f"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-817 司马睿.gif",
+      "aHash": "ffe3c1c7c3c3f7ff",
+      "dHash": "104b8b9c0a360508",
+      "pHash": "e173ce2c92963963",
+      "wHash": "3e200103c383e3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-818 司马绍.gif",
+      "aHash": "fff7e3c3e183e3ff",
+      "dHash": "102f060f07264a10",
+      "pHash": "e6c69b2d99912467",
+      "wHash": "fce0c0c0e181c3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-819 王铎.gif",
+      "aHash": "ffc7c7c3c3e3f7ff",
+      "dHash": "000d9d0e1a160d12",
+      "pHash": "b132cecdc99e9831",
+      "wHash": "3000000000002038"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-823 王羲之.gif",
+      "aHash": "ffe1c1d3c181fbff",
+      "dHash": "220b1936131b2605",
+      "pHash": "e972970d949c3b62",
+      "wHash": "ffe18181818193ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-824 王羲之.gif",
+      "aHash": "ffcbc9c7c3c3f3ff",
+      "dHash": "00131b1e0ab60708",
+      "pHash": "f119ce64969c3963",
+      "wHash": "dfc3c183c080f0fc"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-825 王羲之.gif",
+      "aHash": "ffe3e383c3c1d3ff",
+      "dHash": "200a4a361f1b2609",
+      "pHash": "adb3c3489c0c6be3",
+      "wHash": "ffe18183818183ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-826 王羲之.gif",
+      "aHash": "ffe7e183c7818bff",
+      "dHash": "200b4b37160b3304",
+      "pHash": "b9c3c734943d63c4",
+      "wHash": "ffe78181818181ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-828 王羲之.gif",
+      "aHash": "fffdc1c3c183a5ff",
+      "dHash": "0a050d16072f4900",
+      "pHash": "e2c19f3ee13334c2",
+      "wHash": "fff1c1c1c00181ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-829 王献之.gif",
+      "aHash": "fff7c1e38183c3ff",
+      "dHash": "1007038f0f669b30",
+      "pHash": "e7cc982699b12c79",
+      "wHash": "fff1c1c18001c1ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-830 王献之.gif",
+      "aHash": "ffc989c38181f7ff",
+      "dHash": "041313963b4b2451",
+      "pHash": "bb79c2a794841b1b",
+      "wHash": "ff8181838181e3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-831 王献之.gif",
+      "aHash": "fff7c1838183f9ff",
+      "dHash": "080f2b2e0d0f1341",
+      "pHash": "ea26c59398993d4b",
+      "wHash": "ffc381838181c1ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-832 颜真卿.gif",
+      "aHash": "ffe3c39fe1818fff",
+      "dHash": "205e37380b1f3403",
+      "pHash": "b8e58763ca9c6465",
+      "wHash": "fcc0808ce080007c"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-833 颜真卿.gif",
+      "aHash": "fff3f1e3e1818dff",
+      "dHash": "1027074f872b3904",
+      "pHash": "efe4981ad21365cc",
+      "wHash": "fff1c1c1410181ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-834 张瑞图.gif",
+      "aHash": "fff7c3c3e3c3e3ff",
+      "dHash": "140d060e470f4e00",
+      "pHash": "e78c9ac38e3139cc",
+      "wHash": "f7e383c301010323"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\安-835 祝枝山.gif",
+      "aHash": "ffc1cf8185c5cbff",
+      "dHash": "021799275dad9a05",
+      "pHash": "b8cbc5268fbc9093",
+      "wHash": "ffc1cd8100c0c3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\张旭.jpg",
+      "aHash": "ffefec0987e189ff",
+      "dHash": "20095953640b2b24",
+      "pHash": "fbd2c0258c49d39e",
+      "wHash": "dfadac81078181fb"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\张瑞图.jpg",
+      "aHash": "ffefc387d1c18fff",
+      "dHash": "5812171c971b3629",
+      "pHash": "b9c19f4a963662cc",
+      "wHash": "efcbc183c181839f"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\张芝.jpg",
+      "aHash": "f3c393c18df9fbff",
+      "dHash": "031b270b19230224",
+      "pHash": "fa34c5c392c58e9c",
+      "wHash": "d38181818db9f1f7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\归庄.jpg",
+      "aHash": "ffe3c3e3c3cbf3ff",
+      "dHash": "080e96548e9a0608",
+      "pHash": "e167ce99928c3963",
+      "wHash": "e7c181c3c181c3cf"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\徐伯清.jpg",
+      "aHash": "ffebc3c38189f3ff",
+      "dHash": "105b1a1f09310348",
+      "pHash": "eb31945a36a55a66",
+      "wHash": "efc3c1818181e1ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\怀素.jpg",
+      "aHash": "fbc39fc7c3c1f3ff",
+      "dHash": "8616348d172b070c",
+      "pHash": "bc30c769a2c69b3c",
+      "wHash": "d3838fc38181e3e7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\揭傒斯.jpg",
+      "aHash": "fff1c3c7c38189ff",
+      "dHash": "02039f9c8f197324",
+      "pHash": "b9e1cd1a949e7225",
+      "wHash": "ffc1c183c18181ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\敬世江.jpg",
+      "aHash": "ffe3e3e7e3c185ff",
+      "dHash": "584f0f4c1f0d6912",
+      "pHash": "e3e59c5a959ae029",
+      "wHash": "efe1c1c7c18181db"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\文征明.jpg",
+      "aHash": "ffe181e3e3c1e3ff",
+      "dHash": "105b0b06478b1604",
+      "pHash": "e15b9a65869c3a66",
+      "wHash": "cfc181e3c181c1ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\智永.jpg",
+      "aHash": "ffe3838bc3e63dff",
+      "dHash": "2c0f0b1b174d7962",
+      "pHash": "f32186c6c99bb469",
+      "wHash": "f7e3818bc0a409fb"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\月仪帖.jpg",
+      "aHash": "fff3c3c7e3c183f7",
+      "dHash": "25060e2c070b3304",
+      "pHash": "e4e4ce4b97183a65",
+      "wHash": "f7e38383e18181e7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\李世民.jpg",
+      "aHash": "fde98fd7e3819bff",
+      "dHash": "411b3a35070b7304",
+      "pHash": "f858cb63c49cb2b4",
+      "wHash": "f9c18bd3c18181f7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\杜衍.jpg",
+      "aHash": "ffe3cf17028891ff",
+      "dHash": "204e1665ce593100",
+      "pHash": "b7a4c953848cf9f0",
+      "wHash": "ffe3c317008081ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\毛泽东.jpg",
+      "aHash": "fff1c1c7e1c183ff",
+      "dHash": "0d258faa0d176e58",
+      "pHash": "eac29d63913de047",
+      "wHash": "f7f1c1c3e081838f"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\王献之.jpg",
+      "aHash": "ffc989d387a5e3ff",
+      "dHash": "1211392625490b04",
+      "pHash": "ba78c1a784e51b1e",
+      "wHash": "efc181c3818583ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\王羲之.jpg",
+      "aHash": "fffbcb83c181f7ff",
+      "dHash": "00ab132e1b330411",
+      "pHash": "b9b9c64b32b41971",
+      "wHash": "ffc181818181e3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\王铎.jpg",
+      "aHash": "ffc787c381dbf3ff",
+      "dHash": "101f2c8f1b120708",
+      "pHash": "b032c6997bc68e3a",
+      "wHash": "cf8383c18183f3e7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\皇象.jpg",
+      "aHash": "fbc199e7e1c9fbff",
+      "dHash": "439b332c4b1b3204",
+      "pHash": "e93acc6396949c9c",
+      "wHash": "f1c189c3a1c1d1f7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\蔡松年.jpg",
+      "aHash": "ffe7e787c1818fff",
+      "dHash": "000d4d1e8f0d1e01",
+      "pHash": "b3c3cd6cc89d62e0",
+      "wHash": "fce48084818183ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\蔡襄.jpg",
+      "aHash": "ffc38303c1a49dff",
+      "dHash": "901676570d4d3120",
+      "pHash": "bf2dd0c2c11d56b8",
+      "wHash": "ff83830381a08dff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\赵佶.jpg",
+      "aHash": "ffc1c9c3c19dfdff",
+      "dHash": "12939b970d354112",
+      "pHash": "f8718d8ee4819973",
+      "wHash": "dfc1c1c18181f9f9"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\赵子昂.jpg",
+      "aHash": "ffebe18381c1fbff",
+      "dHash": "005b8b1e0b9b1609",
+      "pHash": "e993c66896946367",
+      "wHash": "ffe1c18180c0c1f7"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\赵构.jpg",
+      "aHash": "ffc183c78181f3ff",
+      "dHash": "179b332e0b130649",
+      "pHash": "b978c36996849d87",
+      "wHash": "fbc181838181e3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\陈淳.jpg",
+      "aHash": "ffc181c3c1fbf7ff",
+      "dHash": "529d17169b13040a",
+      "pHash": "e1789ec3938c8d33",
+      "wHash": "ebc18181c1c1e3ff"
+    },
+    {
+      "fontType": "安",
+      "fontFilePath": "../标准数据集\\安\\韩驹.jpg",
+      "aHash": "fff1c7e1c1310dff",
+      "dHash": "000b1b8b27655924",
+      "pHash": "ebe1910cfc1394b5",
+      "wHash": "fff1c1d0813004ff"
+    }
+  ],
+  [
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5090 蔡襄.gif",
+      "aHash": "ffd7c7c1c1c7e7ff",
+      "dHash": "08af0c0b8b0c0a00",
+      "pHash": "b3c48c1ccd33b669",
+      "wHash": "3f070701c187073f"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5091 褚庭诲.gif",
+      "aHash": "ffc7e7e7c3c3e7ff",
+      "dHash": "00150d4d9e864d22",
+      "pHash": "a6c6cd2c99b36499",
+      "wHash": "f8c0c0c0c3c3c3fb"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5092 范仲淹.gif",
+      "aHash": "fff3c3e3c3e7e7ff",
+      "dHash": "0016070eae0d0f20",
+      "pHash": "e66c999b09c79338",
+      "wHash": "3800030100042038"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5093 黄庭坚.gif",
+      "aHash": "ffe3e3c3c3c7f7ff",
+      "dHash": "00464e8e0e0ead02",
+      "pHash": "e7649a9949963267",
+      "wHash": "3c200000c3c3c7ff"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5094 黄仲则.gif",
+      "aHash": "ffd7c7c7c3c3c7ff",
+      "dHash": "04958d8f8a0a1c20",
+      "pHash": "b38ccc61ccb333cc",
+      "wHash": "3c0404000000003c"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5095 敬世江.gif",
+      "aHash": "ffc7c7c3c3c7efff",
+      "dHash": "048d181e16941a04",
+      "pHash": "b133ce4c4d93d269",
+      "wHash": "0000c08080c0c0d0"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5096 米芾.gif",
+      "aHash": "ffc7c7c7e7e3e7ff",
+      "dHash": "008d8f8d0e464e10",
+      "pHash": "b238cc6793934d93",
+      "wHash": "f8c0c0c0c3c3c3ff"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5097 米芾.gif",
+      "aHash": "ffd387e7e1e1c7ff",
+      "dHash": "0a372d4e0b4b9c00",
+      "pHash": "e39c9c61c3b2ce98",
+      "wHash": "f08080c00101033f"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5098 沈周.gif",
+      "aHash": "ffe3e7c3c3e7e7ff",
+      "dHash": "06170d0f060c0c0c",
+      "pHash": "e6cc98636d929267",
+      "wHash": "f3c3c3c3c0c0c4f4"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5099 苏轼.gif",
+      "aHash": "fff7c7e3c3c7efff",
+      "dHash": "00858d4e8e8e8806",
+      "pHash": "b6c49e39c993343c",
+      "wHash": "fcc0c4c08183c7ff"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5101 王铎.gif",
+      "aHash": "fff7c7e7c3e7e7ff",
+      "dHash": "00a58d4f4e0f2d14",
+      "pHash": "e61c9c67c9863339",
+      "wHash": "3f1707230303273f"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5102 王铎.gif",
+      "aHash": "ffc7c7e3c3c7efff",
+      "dHash": "040d1d16961d5a0c",
+      "pHash": "b166c60ccdcbb239",
+      "wHash": "34040400c0c4ccec"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5103 王筠.gif",
+      "aHash": "ffe7c7c7c183cfff",
+      "dHash": "040a9d0c8b1b982a",
+      "pHash": "b3c68e69cc923c69",
+      "wHash": "efc7c7c781810c2c"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5104 王献之.gif",
+      "aHash": "ffe3e3e1e1c7f7ff",
+      "dHash": "0256460f0b0c2d10",
+      "pHash": "e66d989a69869663",
+      "wHash": "0c0003010107076f"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5105 翁方纲.gif",
+      "aHash": "ffe3c7e3c3c7e7ff",
+      "dHash": "04070d4e9e0d4e00",
+      "pHash": "b264cc39cdc39339",
+      "wHash": "f0c0c0c0c0c4c4fc"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5106 翁方纲.gif",
+      "aHash": "fff7c7e3c3c7e7ff",
+      "dHash": "00058d0e9e8d0d20",
+      "pHash": "b2ccce32cdc33338",
+      "wHash": "fcc0c4c00004043c"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5108 俞镐.gif",
+      "aHash": "ffc7c7e7c3c3e7ff",
+      "dHash": "00ad0d2dae0e0806",
+      "pHash": "a6369b69cd934139",
+      "wHash": "3c04000000000038"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\5110 赵孟頫.gif",
+      "aHash": "fff7c7c3c3c3e7ff",
+      "dHash": "00170d0f9b0e0d02",
+      "pHash": "b2c4ce39c9b630cb",
+      "wHash": "1f030301c0800010"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\张孝祥.jpg",
+      "aHash": "ffcfcfc3c9cbcfff",
+      "dHash": "b49b1c9b9b12180a",
+      "pHash": "b93086c94f86b673",
+      "wHash": "0f0f87c1c18180e0"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\徐伯清.jpg",
+      "aHash": "ffe7e3e1c183efff",
+      "dHash": "000f4e0f0b0e0942",
+      "pHash": "e3669c194bc63c63",
+      "wHash": "3f03030100000f0f"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\怀素.jpg",
+      "aHash": "ffe7e3c3c3e7cfff",
+      "dHash": "080f4e0e8e4c9a24",
+      "pHash": "b3669e924c99c72c",
+      "wHash": "e3c3c3c1c1c7849c"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\敬世江.jpg",
+      "aHash": "ffe7e7c183cfe7ff",
+      "dHash": "0e0d4f0b2f980a08",
+      "pHash": "b366ce9c2c619336",
+      "wHash": "2303430101470727"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\文天祥.jpg",
+      "aHash": "ffe7e7c3c3e7e7ff",
+      "dHash": "100e48960e480c04",
+      "pHash": "b333ce8ecc389386",
+      "wHash": "e4e4e4c0c0e4c4f4"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\智永.jpg",
+      "aHash": "ffcfc7c3c1c3cfff",
+      "dHash": "141a0d171b9e1802",
+      "pHash": "b1c3ce38cc94665b",
+      "wHash": "0f07c381808080e0"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\李世民.jpg",
+      "aHash": "ffc78fe3c1d5e9fb",
+      "dHash": "120d1a1a97351316",
+      "pHash": "f9b3864869c39e38",
+      "wHash": "efc783c1c181e1e3"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\柳公权.jpg",
+      "aHash": "f7e7e7e3e3c7c7ff",
+      "dHash": "05050d0a0a0dae08",
+      "pHash": "e6cc9c33cd199386",
+      "wHash": "3404042023070727"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\欧阳询.jpg",
+      "aHash": "ffdfcf8381e3ffff",
+      "dHash": "9438b6272b82302a",
+      "pHash": "bc38d3c36e84d11b",
+      "wHash": "c383030181c1dfdf"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\毛泽东.jpg",
+      "aHash": "fb8387c181e7c7f7",
+      "dHash": "06074c8b2f0c2d0d",
+      "pHash": "b62d8cc4c9e2939e",
+      "wHash": "f383878181c787e7"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\王献之.jpg",
+      "aHash": "ffcfcfc1c1cb8fff",
+      "dHash": "109b9c9f9993184b",
+      "pHash": "b1b0874b6a2ccdd3",
+      "wHash": "ecc4c381c18187e7"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\王羲之.jpg",
+      "aHash": "f7c7e7e7c3c3e7ff",
+      "dHash": "05b50a4c8a2a0c2a",
+      "pHash": "b29c8c6cc9c34b5b",
+      "wHash": "370707078183c7e7"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\蔡襄.jpg",
+      "aHash": "efe7e7e3c3c7efff",
+      "dHash": "484d0d4e8a8e182c",
+      "pHash": "b367ce18cd919c98",
+      "wHash": "e7e7c7c303030727"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\薛绍彭.jpg",
+      "aHash": "ffc7e7e3c3e7efff",
+      "dHash": "a48d4d0e8e0d5a14",
+      "pHash": "e6649831c9cbc6d9",
+      "wHash": "c0c0e0c0c3c3c7cf"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\贺知章.jpg",
+      "aHash": "f7c7cfcfc3c1cfff",
+      "dHash": "2d2d1a9c93931458",
+      "pHash": "b986c669ce98c999",
+      "wHash": "9787cfcfc1c180c0"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\赵佶.jpg",
+      "aHash": "ffe7e7e3e3e7e7ff",
+      "dHash": "280d0d4e0e0d0d04",
+      "pHash": "e667989cc9399266",
+      "wHash": "f4e0c0c000040030"
+    },
+    {
+      "fontType": "弟",
+      "fontFilePath": "../标准数据集\\弟\\赵子昂.jpg",
+      "aHash": "ffe783c18583efff",
+      "dHash": "080d0e9f2d4ba84b",
+      "pHash": "b264c59f58f90d16",
+      "wHash": "e7e38381818187ff"
+    }
+  ],
+  [
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\任询.jpg",
+      "aHash": "ffd3d3dbc1c3dfff",
+      "dHash": "0296b6b22ba6b002",
+      "pHash": "bcc5933acb992632",
+      "wHash": "3c0002008183c0f0"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\司马睿.jpg",
+      "aHash": "fff3f3b99d81e3ff",
+      "dHash": "00260263612b0f60",
+      "pHash": "efc5e01a9ae1598c",
+      "wHash": "0f0333199880011f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\吴镇.jpg",
+      "aHash": "fff3f99d9191fbff",
+      "dHash": "2116232121271641",
+      "pHash": "ecc1c12e9a936dc3",
+      "wHash": "ccc09199010193ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\孙过庭.jpg",
+      "aHash": "ffe3e39999b1f3ff",
+      "dHash": "2406466369630361",
+      "pHash": "ef26b01b9ac9859a",
+      "wHash": "f7c3a1901810f1ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\宋克.jpg",
+      "aHash": "ffe3e3918191f3ff",
+      "dHash": "000704272b230621",
+      "pHash": "ece693199ac53532",
+      "wHash": "3f0383818181e3fb"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\康里子山.jpg",
+      "aHash": "ffe7e1fda581e3ff",
+      "dHash": "014c0361494b2601",
+      "pHash": "ebc0943f9acc09b6",
+      "wHash": "ffc3c1b1a080007c"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\张华.jpg",
+      "aHash": "ffe3f3999d89e7ff",
+      "dHash": "0846022b615b4803",
+      "pHash": "ef64b41b9a9189cc",
+      "wHash": "3c209090080087ef"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\张旭.jpg",
+      "aHash": "ffc7e3f9d1c3efff",
+      "dHash": "120c0b0323165d22",
+      "pHash": "e163923ccacb2c8f",
+      "wHash": "340000108082033f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\张芝.jpg",
+      "aHash": "fff3e3998181fbff",
+      "dHash": "000606332b2b0629",
+      "pHash": "ec64921b1bcd6732",
+      "wHash": "fce0e3918181030b"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\徐伯清.jpg",
+      "aHash": "ffffe7d39181f7ff",
+      "dHash": "200f85372b2b0621",
+      "pHash": "ecb2931b99e46692",
+      "wHash": "ffe7c3910101033f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\徐渭.jpg",
+      "aHash": "ffe18b9391c1ffff",
+      "dHash": "24031b372129b641",
+      "pHash": "ec61c1729e95925b",
+      "wHash": "ff8181918181d3ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\怀素.jpg",
+      "aHash": "ffe3f99d9d91f3ff",
+      "dHash": "29463329212b2601",
+      "pHash": "eee1e11e9ae00bc9",
+      "wHash": "3f23919c9c0181ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\敬世江.jpg",
+      "aHash": "fff9b9bdb1b3ffff",
+      "dHash": "4013636167671469",
+      "pHash": "efdb902416926d6a",
+      "wHash": "cfc1b9100081f3ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\智永.jpg",
+      "aHash": "fff7f3db8183f7ff",
+      "dHash": "020506b22b270620",
+      "pHash": "ecc4933e99d16592",
+      "wHash": "3f2343098181e3ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\李世民.jpg",
+      "aHash": "fff7f3d39991e3ff",
+      "dHash": "022c062223270620",
+      "pHash": "ec99922e99646d9a",
+      "wHash": "3830d0909981233f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\李东阳.jpg",
+      "aHash": "ffdfd3999981e3ff",
+      "dHash": "02bda6332b2b0e01",
+      "pHash": "ec90936bd9656692",
+      "wHash": "ffcf8391010183fb"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\杜预.jpg",
+      "aHash": "fffba1bda5f9ffff",
+      "dHash": "41064371490b4209",
+      "pHash": "cb0fb4f0129d6963",
+      "wHash": "ccc0013c01d1cfcf"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\橘逸势.jpg",
+      "aHash": "ffd3d3939393dbff",
+      "dHash": "00b626272626b608",
+      "pHash": "ec669349c7923636",
+      "wHash": "fcc08381818393ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\毛泽东.jpg",
+      "aHash": "ffdfc3839b8383ff",
+      "dHash": "18b62626322b2ea0",
+      "pHash": "bc88d33b9b26638c",
+      "wHash": "dfd38383838183cf"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\沈粲.jpg",
+      "aHash": "ffdb93939983e7ff",
+      "dHash": "00a236362b2b0c02",
+      "pHash": "bcccc3339ab434c9",
+      "wHash": "fc9083918181c7ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\沈约.jpg",
+      "aHash": "ffcfd18183c7e7ff",
+      "dHash": "0390b32b362d4e20",
+      "pHash": "bcd9c33619636698",
+      "wHash": "ffcf81818080e4fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王升.jpg",
+      "aHash": "ffe7939991f1ffff",
+      "dHash": "220d263323071823",
+      "pHash": "ee34d1631e996466",
+      "wHash": "f3e3031101010f0f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王导.jpg",
+      "aHash": "fff7e19d9d91f3ff",
+      "dHash": "6106533121232601",
+      "pHash": "aec1e12e9a996d91",
+      "wHash": "34200008808090fe"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王徽之.jpg",
+      "aHash": "fff7c1c99983ffff",
+      "dHash": "1126abbb332e0922",
+      "pHash": "ec59c72699d3262c",
+      "wHash": "fff3818901012333"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王志.jpg",
+      "aHash": "ffc7c39991e7e7ff",
+      "dHash": "129d9633230e0d06",
+      "pHash": "ec3992c6c9cda46c",
+      "wHash": "ffc3818181c3c3cf"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王恬.jpg",
+      "aHash": "ffe3e1bdb5a1ffff",
+      "dHash": "014e0b61696b0c61",
+      "pHash": "efe1b0269ad0651b",
+      "wHash": "fce0c09800200008"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王慈.jpg",
+      "aHash": "fffb89899193f7ff",
+      "dHash": "4023393133262740",
+      "pHash": "bc5bc1a49bd2360b",
+      "wHash": "ff9181880183d3ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王敦.jpg",
+      "aHash": "fff3d39399c3ffff",
+      "dHash": "300636b733860c22",
+      "pHash": "ecccc333989664cd",
+      "wHash": "0c00838181c3273f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王献之.jpg",
+      "aHash": "ffcfc7d3dbc3c3ff",
+      "dHash": "041a8da6b28a8600",
+      "pHash": "b093d349cc66369b",
+      "wHash": "3f070303c0c0c0fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王羲之.jpg",
+      "aHash": "ffffa18d99e3ffff",
+      "dHash": "51260b31234e0922",
+      "pHash": "bf59c0a61ad2634d",
+      "wHash": "fcd0000001230313"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王蒙.jpg",
+      "aHash": "ffd7839991d3ffff",
+      "dHash": "02b5363333a60932",
+      "pHash": "fc3996b649c3243c",
+      "wHash": "3f03010990d0243c"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王衍.jpg",
+      "aHash": "fff3f3f9bd91f3ff",
+      "dHash": "0007164369250641",
+      "pHash": "ee85b41a9be1689a",
+      "wHash": "cfc3c389b5812333"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\王铎.jpg",
+      "aHash": "ffe3919dc1c3f7ff",
+      "dHash": "418e63610b964d12",
+      "pHash": "ee1b95609b9e0c69",
+      "wHash": "3f03111d80c0e4fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\皇象.jpg",
+      "aHash": "fff3839181e1e3ff",
+      "dHash": "004636232d410320",
+      "pHash": "ee2d91c29eac9836",
+      "wHash": "ff8383918080e1ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\祝枝山.jpg",
+      "aHash": "fff9f9b5b133ffff",
+      "dHash": "0003436567626002",
+      "pHash": "efe8902f42928d6d",
+      "wHash": "0a0080803031bfff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\索靖.jpg",
+      "aHash": "fff3c3d98183e7ff",
+      "dHash": "020636b32b2e0c42",
+      "pHash": "bcc1c73698d13c33",
+      "wHash": "fc8001198181c3ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\羊欣.jpg",
+      "aHash": "fff3a19d91e1f7ff",
+      "dHash": "51264b71292f0423",
+      "pHash": "ee19c5649a93632b",
+      "wHash": "ffe181898080343c"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\苏轼.jpg",
+      "aHash": "ffe7d3999d8193ff",
+      "dHash": "0c0d2623292f6e00",
+      "pHash": "aec1913ed92d649a",
+      "wHash": "e7c79391858180fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\萧衍.jpg",
+      "aHash": "fffbf9f99191f3ff",
+      "dHash": "0003124323230621",
+      "pHash": "edc1943e92c56c4b",
+      "wHash": "030109091010c0c0"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\蔡襄.jpg",
+      "aHash": "fffffbdbd193ffff",
+      "dHash": "000612b3b3322402",
+      "pHash": "ecc3933c1ac16dc3",
+      "wHash": "3c30131101010040"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\虞世南.jpg",
+      "aHash": "ffe3e99d89c3e7ff",
+      "dHash": "240e49612b0e4d12",
+      "pHash": "be4be1249cc6c1d9",
+      "wHash": "f3e3819d8181e4fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\褚遂良.jpg",
+      "aHash": "ffe3fbfbbd91c3ff",
+      "dHash": "064602436129a650",
+      "pHash": "eee5a41a9ba49a92",
+      "wHash": "33012339988080ee"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\赵佶.jpg",
+      "aHash": "fffbb3bdbd9193ff",
+      "dHash": "4016636961672600",
+      "pHash": "8fc1f01e923c6de1",
+      "wHash": "0f030108000091ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\赵子昂.jpg",
+      "aHash": "fff3e1999183ffff",
+      "dHash": "01060b33232e0926",
+      "pHash": "ef69909499d36265",
+      "wHash": "0400c09000000010"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\赵炅.jpg",
+      "aHash": "fff3f7fd9d91e3ff",
+      "dHash": "0807046961672600",
+      "pHash": "aec1e12e9be11e92",
+      "wHash": "cfc3c3899880a0fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\陆柬之.jpg",
+      "aHash": "ffe3f3d99181f1ff",
+      "dHash": "00060233312b0330",
+      "pHash": "ee85c53a9ac1633c",
+      "wHash": "f8e0e0980000011f"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\陈声桂.jpg",
+      "aHash": "ff93b9bbb1a1b3ff",
+      "dHash": "00236362696d6700",
+      "pHash": "efc990369199f2c8",
+      "wHash": "ff919199818181ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\陈淳.jpg",
+      "aHash": "ffc3c1c9939f9fff",
+      "dHash": "01a69393362d2204",
+      "pHash": "bc618796c99b9364",
+      "wHash": "1f03c18181830363"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\高闲.jpg",
+      "aHash": "ffefcfcbcbd3f3ff",
+      "dHash": "084a189292960512",
+      "pHash": "b893c66c19e69939",
+      "wHash": "e4e4ccc0c0c0e0fc"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\鲜于枢.jpg",
+      "aHash": "ffe7f3f9bda1f3ff",
+      "dHash": "020d0663696b0661",
+      "pHash": "ee80b41a9be16d96",
+      "wHash": "fce0c08800012133"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\黄庭坚.jpg",
+      "aHash": "ffe7c79399d3f3ff",
+      "dHash": "244f142633170610",
+      "pHash": "ec32d34d98a4699b",
+      "wHash": "f0e0c08081c1f3ff"
+    },
+    {
+      "fontType": "得",
+      "fontFilePath": "../标准数据集\\得\\黄道周.jpg",
+      "aHash": "fff3c3c7c381d3ff",
+      "dHash": "00268faca32b2a00",
+      "pHash": "bce6c34993923b64",
+      "wHash": "ff838387818181ff"
+    }
+  ],
+  [
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2583 陆柬之.gif",
+      "aHash": "ffefeb83cbc1ffff",
+      "dHash": "02589b1213931803",
+      "pHash": "b987c6782d0768d3",
+      "wHash": "3c0c41018080c0f0"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2584 欧阳询.gif",
+      "aHash": "ffffc3c3c3c3dfff",
+      "dHash": "005c561697179006",
+      "pHash": "b183cf4e3c3961c3",
+      "wHash": "dcc4c080c181ccfc"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2585 董其昌.gif",
+      "aHash": "ffffc3c3c3cfffff",
+      "dHash": "22581b1397141220",
+      "pHash": "b963c6986d6130e7",
+      "wHash": "ffcfc18100060030"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2586 何绍基.gif",
+      "aHash": "ffefc78fc183d9ff",
+      "dHash": "201f1c1b9b331708",
+      "pHash": "b9b3c64dd31c3461",
+      "wHash": "ffc78381010181bb"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2587 揭傒斯.gif",
+      "aHash": "ffffc3c3c1c3ffff",
+      "dHash": "1620161617970006",
+      "pHash": "b893c7683c91636b",
+      "wHash": "fcfcc08081c1f3f3"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2588 敬世江.gif",
+      "aHash": "ffefe981c3c9e9ff",
+      "dHash": "215a1b1393135300",
+      "pHash": "f993863c345a19e5",
+      "wHash": "ffe9c001c180c9ff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2589 米芾.gif",
+      "aHash": "ffffcb83c183ffff",
+      "dHash": "02181616972f2817",
+      "pHash": "b8c1c73e6c9d61c1",
+      "wHash": "300000008181033b"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2590 米芾.gif",
+      "aHash": "ffefcb83c381bfff",
+      "dHash": "20529a1297376c01",
+      "pHash": "b9d1c736cc0f68c1",
+      "wHash": "ffcfc101808087ff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2591 任询.gif",
+      "aHash": "ffdfc983d991dfff",
+      "dHash": "41921333b3373003",
+      "pHash": "b869c396473f68c1",
+      "wHash": "ffcb8101c0808fff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2592 沈粲.gif",
+      "aHash": "ffcfcf83c381cfff",
+      "dHash": "0698163696331304",
+      "pHash": "b890c36ee49d38b3",
+      "wHash": "fccc8381818183f3"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2593 沈周.gif",
+      "aHash": "ffffc18081c3ffff",
+      "dHash": "0114173537379045",
+      "pHash": "bc64c3bb0f996861",
+      "wHash": "ffc3c0000181dfff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2594 沈周.gif",
+      "aHash": "ffffc38181c3ffff",
+      "dHash": "0160171537171026",
+      "pHash": "b865c39e3c5960e5",
+      "wHash": "f3c3c1008181dfff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2595 苏轼.gif",
+      "aHash": "ffefc9c9818bffff",
+      "dHash": "0418139313171867",
+      "pHash": "f961861e6cc1396b",
+      "wHash": "3000000000010f3f"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2596 苏轼.gif",
+      "aHash": "ffcfc9c981cfffff",
+      "dHash": "0112931313971002",
+      "pHash": "b96986964ee9314b",
+      "wHash": "3f0bc1810003ccfc"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2597 唐寅.gif",
+      "aHash": "fffbc98181c1ffff",
+      "dHash": "0916131317371601",
+      "pHash": "e983966c3fb34883",
+      "wHash": "ffcbc9010180c3ff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2598 唐寅.gif",
+      "aHash": "ffffcb8381c1ffff",
+      "dHash": "0024131317975403",
+      "pHash": "e9c1963c3fa1690e",
+      "wHash": "fff3c1810080c3ff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2599 王宠.gif",
+      "aHash": "ffebc9c18b81cfff",
+      "dHash": "001a1b9b12139a40",
+      "pHash": "f9c3863c86c16fb0",
+      "wHash": "2f01000000000032"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2600 王铎.gif",
+      "aHash": "ffefc181c1cfcfff",
+      "dHash": "250a0b1313161802",
+      "pHash": "b96796946c1d1c63",
+      "wHash": "0f01010100000c1c"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2601 王羲之.gif",
+      "aHash": "ffefc98183d9dfff",
+      "dHash": "015a1b1317b31200",
+      "pHash": "b9e3c61c364949b3",
+      "wHash": "fcc8c880010180fe"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2602 鲜于枢.gif",
+      "aHash": "ffffe9c181c1efff",
+      "dHash": "011a0b1b1b931803",
+      "pHash": "f943863c3cf24387",
+      "wHash": "f7e1c08080c00030"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2603 鲜于枢.gif",
+      "aHash": "ffffcf838183dfff",
+      "dHash": "449a14372736b106",
+      "pHash": "bc91c36e66943d61",
+      "wHash": "3c0c838101010303"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\2604 赵孟頫.gif",
+      "aHash": "ffffcb83c9c1ffff",
+      "dHash": "1042923613931023",
+      "pHash": "e92d86d23c3569c9",
+      "wHash": "ccc8c0808181cfff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\孙过庭.jpg",
+      "aHash": "ffffe981c1c9fdff",
+      "dHash": "015c0b1b5b9b2900",
+      "pHash": "fb878478254e7983",
+      "wHash": "ffefc10181c8c0f3"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\宋克.jpg",
+      "aHash": "ffffc3c3c1cfffff",
+      "dHash": "1024961297940234",
+      "pHash": "b965c69a39e1986c",
+      "wHash": "fcf0c381818fcccc"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\徐伯清.jpg",
+      "aHash": "ffffc3c3c383f3ff",
+      "dHash": "0014161616370700",
+      "pHash": "bcc3c33e98613c96",
+      "wHash": "0000400000000002"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\怀素.jpg",
+      "aHash": "ffdfc981c1dbffff",
+      "dHash": "0398933313971002",
+      "pHash": "b92986d26d0fd8e1",
+      "wHash": "2000000081c10030"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\敬世江.jpg",
+      "aHash": "ffefc981c389efff",
+      "dHash": "211a131313331b04",
+      "pHash": "f9a78658261f49e1",
+      "wHash": "ffcb8981818089ff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\智永.jpg",
+      "aHash": "ffffc98183d1ffff",
+      "dHash": "0114931737174833",
+      "pHash": "ec69c3863c636999",
+      "wHash": "fcc0c0808181cfff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\李世民.jpg",
+      "aHash": "ffebc98bcb89f3ff",
+      "dHash": "185b191b1a330724",
+      "pHash": "f9b3c64c948e4ae4",
+      "wHash": "3f29c0018389c1df"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\毛泽东.jpg",
+      "aHash": "fbe98909e3c99bff",
+      "dHash": "131b1b53121b3374",
+      "pHash": "f9c39664c61cb2b4",
+      "wHash": "fbc18909c1c989bf"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\王升.jpg",
+      "aHash": "ffef8dc1c18dffff",
+      "dHash": "215c19939b3b3403",
+      "pHash": "b93386cc6cce1a33",
+      "wHash": "f0808080810193f3"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\王宠.jpg",
+      "aHash": "ffebc9cb8b81cfff",
+      "dHash": "011a139313139a05",
+      "pHash": "b9c1863ec6d14db8",
+      "wHash": "ffcb80c08181c0f4"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\祝枝山.jpg",
+      "aHash": "ffdb89c1919bdfff",
+      "dHash": "409313333333b443",
+      "pHash": "e879938664b41f4b",
+      "wHash": "3f0900000011072f"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\赵佶.jpg",
+      "aHash": "ffef89c1c9dfdfff",
+      "dHash": "441b5b1393149600",
+      "pHash": "f96386944c6d8e5a",
+      "wHash": "ffc9090088c1c7ff"
+    },
+    {
+      "fontType": "杜",
+      "fontFilePath": "../标准数据集\\杜\\赵子昂.jpg",
+      "aHash": "ffdfcb839193ffff",
+      "dHash": "0a14961635373601",
+      "pHash": "bc91c34e1e6569d2",
+      "wHash": "100000000000006c"
+    }
+  ],
+  [
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\倪元璐.jpg",
+      "aHash": "fff3e3e3c7e7e7ff",
+      "dHash": "000646268d2d2d00",
+      "pHash": "e66d99921866e732",
+      "wHash": "3f2323030327273f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\宋克.jpg",
+      "aHash": "ffe7e7c3c7e7e7ff",
+      "dHash": "100c4d8e8f4d0d00",
+      "pHash": "e622cd9b9964c69a",
+      "wHash": "3c240000c4e0c0dc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\张瑞图.jpg",
+      "aHash": "fff7f7f38183efff",
+      "dHash": "000746874f0e1c62",
+      "pHash": "e6c4993bcbc03663",
+      "wHash": "3c2020200003070f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\张芝.jpg",
+      "aHash": "ffe7e3c3c7e7e7ff",
+      "dHash": "122c4eaa2d4f0e00",
+      "pHash": "e6cd99929869c732",
+      "wHash": "0f07410184c0000c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\归庄.jpg",
+      "aHash": "ffe3c3c3c7e7e7ff",
+      "dHash": "004e0e868d2d0d00",
+      "pHash": "e63999ce99389233",
+      "wHash": "dfc3c3c30020203c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\徐伯清.jpg",
+      "aHash": "ffe3e3c3c3f3e3ff",
+      "dHash": "0003460626070e00",
+      "pHash": "e6699b969834c633",
+      "wHash": "f2e0e08080e0000c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\怀素.jpg",
+      "aHash": "ffc3c3c3e7e7e7ff",
+      "dHash": "080697872d0e4d04",
+      "pHash": "e65c99c7cc319932",
+      "wHash": "2f0303030707233f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\敬世江.jpg",
+      "aHash": "fff3e193c7e7f3ff",
+      "dHash": "02040f272d0f2600",
+      "pHash": "e69999a69949c363",
+      "wHash": "fce0e08080c0203c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\文彭.jpg",
+      "aHash": "ffe7c7e1a187c7ff",
+      "dHash": "000b0c0b0b2f0d42",
+      "pHash": "b3c18c2ecb319c73",
+      "wHash": "e3e3c4e08080c4fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\文征明.jpg",
+      "aHash": "ffe7e3c3c7e7e3ff",
+      "dHash": "080f07968d0d0700",
+      "pHash": "e6679992994cce92",
+      "wHash": "1f0323030420203c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\智永.jpg",
+      "aHash": "ffe7c3c7c7e7e7e7",
+      "dHash": "4a0d8f0f290d4d1d",
+      "pHash": "b2ccc99b9865cc3c",
+      "wHash": "e78783838787c3c3"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\李怀琳.jpg",
+      "aHash": "fff7e7e18187e7ff",
+      "dHash": "102d4c0b2b2c0f20",
+      "pHash": "b6c5c83e49619e3a",
+      "wHash": "3020c38100000000"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\查士标.jpg",
+      "aHash": "ffe7e3c3c7c7f7ff",
+      "dHash": "020d0e9f9d8d8f00",
+      "pHash": "b2c7cf3299c921c3",
+      "wHash": "342000000000003c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\毛泽东.jpg",
+      "aHash": "f3e3c1e3a3e3c9fd",
+      "dHash": "0607934657469321",
+      "pHash": "ed65daa78669901a",
+      "wHash": "f3c1c18183e3c1fd"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5924 陆柬之.gif",
+      "aHash": "ffc7c38387c7c1fd",
+      "dHash": "0e0d972f0d8c0713",
+      "pHash": "b694c9b29f4d9149",
+      "wHash": "e7c7c18183c7c0f9"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5925 管道升.gif",
+      "aHash": "ffe7e383c7c3f1ff",
+      "dHash": "060d0e162d961301",
+      "pHash": "e436cb8c9e6961c3",
+      "wHash": "f8e0c08083c3c1ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5926 何绍基.gif",
+      "aHash": "ffc7c3c3c7c7c3ff",
+      "dHash": "061d97060d8f0e02",
+      "pHash": "b198ceb38c6d9896",
+      "wHash": "2400808083c30133"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5928 橘逸势.gif",
+      "aHash": "ff81c3c183e7e1ff",
+      "dHash": "01230f8b270e8343",
+      "pHash": "ec38c9869ac3b72c",
+      "wHash": "ff8181c18187c1ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5929 李世民.gif",
+      "aHash": "fff7e3c3c3e3e3ff",
+      "dHash": "0a25069616060608",
+      "pHash": "e4999ba69969c338",
+      "wHash": "ffe3c18180e0e0f8"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5930 陆柬之.gif",
+      "aHash": "ffefe38387e7e1ff",
+      "dHash": "06080e0e0e8f0300",
+      "pHash": "a793c9669c69e341",
+      "wHash": "1000410183c10026"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5931 米芾.gif",
+      "aHash": "ffe7c38383c7c1ff",
+      "dHash": "104e8e262e8c0701",
+      "pHash": "b686cb338c6c91cd",
+      "wHash": "ffe3c18380c080f6"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5932 米芾.gif",
+      "aHash": "ffe7c383c3c7f3ff",
+      "dHash": "000d8b260e8c2701",
+      "pHash": "a686cb338c6cb3c9",
+      "wHash": "3f27c183838381ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5933 米芾.gif",
+      "aHash": "ffffe3c7c3c7c3ff",
+      "dHash": "102e4e0f8e0d8602",
+      "pHash": "b6c6c9309863e76c",
+      "wHash": "fce0c0c080c00133"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5934 苏轼.gif",
+      "aHash": "ffe3e3c987e3c1ff",
+      "dHash": "060e0f132d4e8b3d",
+      "pHash": "e7e6c01c9c69c336",
+      "wHash": "f7e3c381838381dd"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5935 苏轼.gif",
+      "aHash": "ffe7e38187c3c1ff",
+      "dHash": "020d0b1366479340",
+      "pHash": "e583d0369d69c396",
+      "wHash": "ffe7c181818180ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5936 索靖.gif",
+      "aHash": "ffc7c3e783c7e3ff",
+      "dHash": "108fa72f268d0702",
+      "pHash": "e692c9339ecd924c",
+      "wHash": "2400000083c3013f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5937 唐寅.gif",
+      "aHash": "ffe7e1c183a3e1ff",
+      "dHash": "034c0f87260f1340",
+      "pHash": "e69299369c693696",
+      "wHash": "f7e3c0808383c1fd"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5938 唐寅.gif",
+      "aHash": "ffe7c3c383e7e3ff",
+      "dHash": "0e4d86070f0c0602",
+      "pHash": "e6c69b329969931c",
+      "wHash": "f4e0c1818183c3fb"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5939 王羲之.gif",
+      "aHash": "ffe7e7c3c7e7e3ff",
+      "dHash": "000d45978d4f1600",
+      "pHash": "a68ecd3398cd8399",
+      "wHash": "3c240000c7c3c3ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5940 翁方纲.gif",
+      "aHash": "ffe7c3c787e3c3ff",
+      "dHash": "284f963d2d0f1303",
+      "pHash": "b496cb2698c9936d",
+      "wHash": "e4c0c08080c0c1f9"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5941 吴琚.gif",
+      "aHash": "ffe7c38187e7c3ff",
+      "dHash": "264c97272c0d9b23",
+      "pHash": "a6c6c9b69c69c91c",
+      "wHash": "3f2741010303c1df"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5942 叶梦得.gif",
+      "aHash": "ffe7e3c387e3f3ff",
+      "dHash": "022d4eb62d4f0200",
+      "pHash": "a492cb369869e39b",
+      "wHash": "ffe7c1818383013f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5943 张凤翼.gif",
+      "aHash": "ffe7c3c187c7c3ff",
+      "dHash": "264d972b2d0d8e22",
+      "pHash": "b6c6c9b28e69998c",
+      "wHash": "3424c0808383c0fa"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5944 赵孟頫.gif",
+      "aHash": "ffe7e3c393e3e1ff",
+      "dHash": "224d0e96264f0b00",
+      "pHash": "e4b4d3069c49679e",
+      "wHash": "fcc080c08381c1ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5945 赵孟頫.gif",
+      "aHash": "ffe7c783c7c3f3ff",
+      "dHash": "04488f070d8f4320",
+      "pHash": "b6b2c9d99c4c3263",
+      "wHash": "fcc4c0800400213f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5946 赵孟頫.gif",
+      "aHash": "ffc7c3c3a7c3c3ff",
+      "dHash": "028d8e162d8f9f01",
+      "pHash": "b096c9268e59e3ce",
+      "wHash": "f0c0c08083c3c1ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5947 赵孟頫.gif",
+      "aHash": "ffe7e3cb93e3e1ff",
+      "dHash": "0a0d8f16264f0300",
+      "pHash": "e4b6d3269c59630e",
+      "wHash": "d7c3c18180e00032"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-5948 智果.gif",
+      "aHash": "ffe3e3c3c3c7c3ff",
+      "dHash": "16050f96960d2303",
+      "pHash": "e4e6ce32d94992c3",
+      "wHash": "f3c3c3c1c38380fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-倪元璐.gif",
+      "aHash": "fff3e3e3c7e7e7ff",
+      "dHash": "000646268d0d2d00",
+      "pHash": "e66d999218e6e332",
+      "wHash": "3c2020000307273f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-倪元璐.jpg",
+      "aHash": "fff3e3e3c7e7e7ff",
+      "dHash": "000646268d0d2d00",
+      "pHash": "e66d999218e6e332",
+      "wHash": "fce0e0c00307273f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-宋克.gif",
+      "aHash": "ffe3c3c7e7f7f3ff",
+      "dHash": "000e8e8d0d050500",
+      "pHash": "e633c9ce9a929865",
+      "wHash": "fcc0c0c004303030"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-宋克.jpg",
+      "aHash": "ffe7e7c3c7e7e7ff",
+      "dHash": "100e4d0e8f4d0d00",
+      "pHash": "e69acc9b9964c692",
+      "wHash": "1c040000c0e0e0f0"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-张瑞图.gif",
+      "aHash": "fff7f7f38183efff",
+      "dHash": "000747074f0f1c40",
+      "pHash": "e6c4993bc9c13663",
+      "wHash": "3f2323230081033f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-张瑞图.jpg",
+      "aHash": "fff7f7f38183efff",
+      "dHash": "000747074f0f1c40",
+      "pHash": "e6c4993bc9c13663",
+      "wHash": "fce0e0e00081c3ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-张芝.gif",
+      "aHash": "ffe7e3c3c7e7c7ff",
+      "dHash": "122c4eaa2d4f0e00",
+      "pHash": "e6cd99929869c732",
+      "wHash": "ffe7c38184e0003c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-张芝.jpg",
+      "aHash": "ffe7e3c3c7e7c7ff",
+      "dHash": "122c0eaa2d4f0e00",
+      "pHash": "e6cd99929869c732",
+      "wHash": "fce4c38187e3032f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-归庄.gif",
+      "aHash": "ffe3c3c3c7e7e7ff",
+      "dHash": "004e0e868d2d0d00",
+      "pHash": "e63999c699389333",
+      "wHash": "3c2000000020203c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-归庄.jpg",
+      "aHash": "ffe3c3c3c7e7e7ff",
+      "dHash": "004e0e868d2d0d00",
+      "pHash": "e63999c699389333",
+      "wHash": "fce0c0c0c0e4e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-徐伯清.gif",
+      "aHash": "fff7e3e3c3c7e3ff",
+      "dHash": "0825074717ad4e0a",
+      "pHash": "e6c99b3219679638",
+      "wHash": "f7f3e3e180c0c0d0"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-徐伯清.jpg",
+      "aHash": "fff7e3e3c3c7e3ff",
+      "dHash": "0825074717ad4e0a",
+      "pHash": "e6c99b3219679638",
+      "wHash": "080003010000203c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-怀素.gif",
+      "aHash": "fffbe3c3c3e7e7ff",
+      "dHash": "000a4f86a74c0d00",
+      "pHash": "e6c9d9929c663364",
+      "wHash": "fce0c0c0c0e4e4fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-怀素.jpg",
+      "aHash": "ffc3c3c3e7e7e7f7",
+      "dHash": "080697872d0d4d0c",
+      "pHash": "e65c99c7cc319932",
+      "wHash": "fcc0c0c0e4e4c0ec"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-敬世江.gif",
+      "aHash": "fff3e19387e7f3ff",
+      "dHash": "02040f272d0f2602",
+      "pHash": "e69989b69949c363",
+      "wHash": "fce0e08080e4c0dc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-敬世江.jpg",
+      "aHash": "fff3e19387e7f3ff",
+      "dHash": "02040f272d0f2602",
+      "pHash": "e69989b69949c363",
+      "wHash": "ffe3e18180e0e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-文彭.gif",
+      "aHash": "ffe7c7e3e187c7ff",
+      "dHash": "000b080b4b2f0c52",
+      "pHash": "b3c18c2ecb319c73",
+      "wHash": "080000008181030f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-文彭.jpg",
+      "aHash": "ffe7c7e3e187c7ff",
+      "dHash": "000b0c0b4b2f0c52",
+      "pHash": "b3c18c2ecb319c73",
+      "wHash": "2f2707218181030f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-文征明.gif",
+      "aHash": "ffe7e3c3c7e7e3ff",
+      "dHash": "000f07968d0d0700",
+      "pHash": "e6659b92994cce92",
+      "wHash": "3c2020000727233f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-文征明.jpg",
+      "aHash": "ffe7e3c3c7e7e3ff",
+      "dHash": "080f07968d0d0700",
+      "pHash": "e6659b92994cce92",
+      "wHash": "fce0e0c0c4e0e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-智永.gif",
+      "aHash": "ffe7c3c7c7e7e7e7",
+      "dHash": "0a0d0f0f290d0d1d",
+      "pHash": "b2ccc99b9c65cc38",
+      "wHash": "e78783838787c3c3"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-智永.jpg",
+      "aHash": "ffe7c3c7c7e7e7e7",
+      "dHash": "0a0d0f0f290d0d0d",
+      "pHash": "b2ccc99b9c65cc38",
+      "wHash": "e78783838787c3c3"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-李怀琳.gif",
+      "aHash": "fff7e7e18187e3ff",
+      "dHash": "102f0c0b2f2c060c",
+      "pHash": "a6c3c93c4b619e36",
+      "wHash": "372343018082c0e4"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-李怀琳.jpg",
+      "aHash": "fff7e7e18187e7ff",
+      "dHash": "102f4c0b2b2c0f18",
+      "pHash": "b6c5d83e49619e32",
+      "wHash": "fce0c2808187c3f3"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-查士标.gif",
+      "aHash": "ffe7e3c3c7c7c7ff",
+      "dHash": "120d0e9f9d8d8f02",
+      "pHash": "b2c7ce3299c96193",
+      "wHash": "37230303c3c3c3fb"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-查士标.jpg",
+      "aHash": "ffe7e3c3c7c7c7ff",
+      "dHash": "120d0e9f9d8d8f02",
+      "pHash": "b2c7ce3299c96193",
+      "wHash": "372303030303033b"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-毛泽东.gif",
+      "aHash": "f3e3c1e3a3e3c9fd",
+      "dHash": "06079306574693a1",
+      "pHash": "ed65d8a78e699218",
+      "wHash": "f3c1c1c183e3c1dd"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-毛泽东.jpg",
+      "aHash": "f3e3c1e3a3e3c9fd",
+      "dHash": "06079306574693a1",
+      "pHash": "ed65d8a78e699218",
+      "wHash": "f3c1c1c183e3c1dd"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-王献之.jpg",
+      "aHash": "ffe3e3f3d7c7e3ff",
+      "dHash": "00464606252d4e16",
+      "pHash": "e6899b369c639634",
+      "wHash": "fce0c0f08383c1ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-王羲之.gif",
+      "aHash": "fff7e3c3c7e7e7ff",
+      "dHash": "020507072d0d0f06",
+      "pHash": "e6cc93969969c332",
+      "wHash": "f3f3c18180e0e0e0"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-王羲之.jpg",
+      "aHash": "fff7e3c3c7f7e3ff",
+      "dHash": "0205073725050e0e",
+      "pHash": "e6c993969969c332",
+      "wHash": "ccc0c08080e0e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-王铎.gif",
+      "aHash": "ffc3c3c3efefe7ff",
+      "dHash": "020e9e9e185a4a08",
+      "pHash": "b164cecb9898ccb3",
+      "wHash": "3c000000c4ece4fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-王铎.jpg",
+      "aHash": "ffe7c1c3cfe3e7ff",
+      "dHash": "224c8b1a180a0e00",
+      "pHash": "b339cec6986c6992",
+      "wHash": "efc7c1810460c0dc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-皇象.gif",
+      "aHash": "ffefe7c3e3e7e7ff",
+      "dHash": "04484e8e0e4d4d00",
+      "pHash": "e3d998866d619396",
+      "wHash": "3c2c2000e0e0c0f8"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-皇象.jpg",
+      "aHash": "ffefe7c3e3e7e7ff",
+      "dHash": "04484e8e0e4d4d00",
+      "pHash": "e3d998866d619396",
+      "wHash": "3020200000040030"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-祝枝山.gif",
+      "aHash": "ffe7c3c1a7c7c3ff",
+      "dHash": "00068f0f4f8f3341",
+      "pHash": "a6e698928b69b09f",
+      "wHash": "f0c0c381030381ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-祝枝山.jpg",
+      "aHash": "ffe7c3c1a7c7c3ff",
+      "dHash": "00068f0f4f8f3341",
+      "pHash": "a6e498928b69b19f",
+      "wHash": "ffc3c38181c380fe"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-米芾.gif",
+      "aHash": "fff7e7e387c1e3ff",
+      "dHash": "08264f062c0b0b18",
+      "pHash": "e384c83b9cc37b32",
+      "wHash": "fce0e0e08581213f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-米芾.jpg",
+      "aHash": "fff7e7e38781e1ff",
+      "dHash": "08260f062c0b0b08",
+      "pHash": "e38cc83a9ce133b6",
+      "wHash": "f4e0e0e08381e1eb"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-索靖.gif",
+      "aHash": "fff3f3e3c3c3f1ff",
+      "dHash": "0006264e0e270324",
+      "pHash": "e49c9892936b9c6d",
+      "wHash": "3f332121c381e1ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-索靖.jpg",
+      "aHash": "fff3f3e3c3c3f1ff",
+      "dHash": "0006264e0e270324",
+      "pHash": "e49c9892936b9c6d",
+      "wHash": "3f332121c080e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-詹景凤.gif",
+      "aHash": "fff7f3f3c183f3ff",
+      "dHash": "000526052b360512",
+      "pHash": "e4c49939dbe63849",
+      "wHash": "f4f0e0e08082e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-詹景凤.jpg",
+      "aHash": "fff7f3f3c183f3ff",
+      "dHash": "000526052b360512",
+      "pHash": "e4c49939dbe63849",
+      "wHash": "0f0323238183e3ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-贺知章.gif",
+      "aHash": "ffe7e7c3c7e7e7ff",
+      "dHash": "000d0dae8e4a0f0c",
+      "pHash": "b364cc9b8c649b33",
+      "wHash": "3f0303030727033f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-贺知章.jpg",
+      "aHash": "ffe7e7c3c7e7e7ff",
+      "dHash": "000d0dae8e4a0f0c",
+      "pHash": "b364cc9b8c649b33",
+      "wHash": "3f0303030004003c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-赵构.gif",
+      "aHash": "ffe3c3c187e7e3ff",
+      "dHash": "004e8f2b2c0f0e00",
+      "pHash": "e7c999969c69c234",
+      "wHash": "3303c1810000000c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-赵构.jpg",
+      "aHash": "ffe3c3c187e7e3ff",
+      "dHash": "004e8f2b2c0f0e00",
+      "pHash": "e7c999969c69c234",
+      "wHash": "ffc3c18180e0c0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-赵雍.gif",
+      "aHash": "ffe7e7e187e7e7ff",
+      "dHash": "000c0d4b2f2d4f20",
+      "pHash": "e6c999349963a636",
+      "wHash": "0f0703018080000c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\爱-赵雍.jpg",
+      "aHash": "ffe7e7e187e7e7ff",
+      "dHash": "000c0d4b2f2d4f20",
+      "pHash": "e6c999349963a636",
+      "wHash": "3f2723218080e0f4"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\王献之.jpg",
+      "aHash": "ffe3e3f3d7c7e3ff",
+      "dHash": "00464606250f4e20",
+      "pHash": "e6c99b369c639234",
+      "wHash": "0c00000000400123"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\王羲之.jpg",
+      "aHash": "fff7e3c3c7e7e3ff",
+      "dHash": "02050737250d0e10",
+      "pHash": "e6499b969869c3b2",
+      "wHash": "fff3c18180e0e0fc"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\王铎.jpg",
+      "aHash": "ffe7c1c3cfe3e7ff",
+      "dHash": "224c8b1a180e0e00",
+      "pHash": "b339ce86986c6999",
+      "wHash": "3f0741038ce0e0f4"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\皇象.jpg",
+      "aHash": "ffefe7c3e3e7e7ff",
+      "dHash": "04484e0e0e4d4d00",
+      "pHash": "e3d998966c619396",
+      "wHash": "ffefe3c32004043c"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\祝枝山.jpg",
+      "aHash": "ffe7c3c1a7c7cbff",
+      "dHash": "00068f0f4f8f3300",
+      "pHash": "e66698988f49b197",
+      "wHash": "f0c0c08083c381ff"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\米芾.jpg",
+      "aHash": "fff7e7e387a1e3ff",
+      "dHash": "08064f062c0b0b08",
+      "pHash": "e384c83b9cc173b6",
+      "wHash": "f4e0e0e08080e0f4"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\索靖.jpg",
+      "aHash": "fff3f3e3c3c3f3ff",
+      "dHash": "0026264e06270224",
+      "pHash": "e49f9892936b9c4c",
+      "wHash": "3f3323218381213f"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\詹景凤.jpg",
+      "aHash": "fff3f3f7c183f3ff",
+      "dHash": "000526072b370510",
+      "pHash": "e4c499399be63c49",
+      "wHash": "fcf0e0e08183e0f8"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\贺知章.jpg",
+      "aHash": "ffe7e7c3c7e7e7ff",
+      "dHash": "000d0dae8e4a0f00",
+      "pHash": "b324cc9b9c4c9b33",
+      "wHash": "3f03030304242028"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\赵构.jpg",
+      "aHash": "ffe3c3c187e7e3ff",
+      "dHash": "000e8f2b2c0f0e00",
+      "pHash": "e74999969c69c334",
+      "wHash": "3f03c18180c0c0f4"
+    },
+    {
+      "fontType": "爱",
+      "fontFilePath": "../标准数据集\\爱\\赵雍.jpg",
+      "aHash": "ffe7e7e187e7e7ff",
+      "dHash": "000c0d4b2f0d4f20",
+      "pHash": "e6c999349961e636",
+      "wHash": "3f27e3a180c0203c"
+    }
+  ]
+]
